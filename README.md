@@ -18,7 +18,7 @@ L’origen d’EverPia es remunta a uns anys enrere, quan vuit professors —Rub
 
 - El Rubén, el rei de la web.
 - La Isabel, experta en auditories.
-- El Carlos Alonso, savi dels sistemes.
+- El Carlos Alonso, .
 - El Cristian, explorador de nous reptes.
 - El Carles Fugarolas, mestre de servidors i xarxes.
 - La Cristina, experta en desenvolupament de software.
