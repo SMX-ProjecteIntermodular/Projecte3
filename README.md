@@ -1,4 +1,4 @@
-# Plantilla projecte intermodular
+# Projecte 3: EverPia I
 
 ## Taula de continguts
 
@@ -9,6 +9,8 @@
 - [Lliurament del projecte](#lliurament-del-projecte)
 
 ## Introducció al cas
+
+** Retocar presentació i imatges **´
 
 Benvinguts a EverPia, una consultora IT que té com a missió resoldre els reptes tecnològics de clients molt diversos. Acabeu d’incorporar-vos a l’empresa com a nous consultors júnior i, a partir d’avui, formareu part de l’equip que dona servei a diferents organitzacions. Cada client té les seves necessitats concretes i, sovint, semblen projectes inconnexos. Però no us enganyeu: el que realment us demanem és capacitat d’adaptació, visió global i organització.
 
@@ -44,8 +46,13 @@ En definitiva, aquest projecte és la vostra porta d’entrada a EverPia: la con
 
 ## Tasques a realitzar
 
-- Tasca 1
-- Tasca 2
+- Tasca 1. Crear repositori individual lliurament.
+- Tasca 2. Creació tauler Kanban al projecte.
+- Tasca 3. IA Prompting masterclass.
+- Tasca 4. Generació contingut amb Notebook LM.
+- Tasca 5. Gestor de contrasenyes i autenticació multifactor.
+- Tasca 6. Gestió emmagatzematge flexible.
+- Tasca 7. Tasca Serveis (DNS)?
 ...
 
 ## Lliurament del projecte
