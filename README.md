@@ -16,11 +16,11 @@ Benvinguts a EverPia, una consultora IT que té com a missió resoldre els repte
 
 ![Logo_EverPia](./img/logoEverPia.png)
 
-L’origen d’EverPia es remunta a uns anys enrere, quan vuit professors —Rubén, Isabel, Carlos Alonso, Cristian, Carles Fugarolas, Cristina i Núria— van decidir unir les seves forces. Tots ells compartien una passió: la informàtica i l’educació. Però també una convicció profunda: la tecnologia no té sentit si no ajuda a les persones i a les organitzacions a créixer.
+L’origen d’EverPia es remunta a uns anys enrere, quan vuit professors —Blai, Isabel, Carlos, Cristian, Carles, Cristina i Núria— van decidir unir les seves forces. Tots ells compartien una passió: la informàtica i l’educació. Però també una convicció profunda: la tecnologia no té sentit si no ajuda a les persones i a les organitzacions a créixer.
 
-- El Rubén, el rei de la web.
+- En Blai, 
 - La Isabel, experta en auditories.
-- El Carlos Alonso, .
+- El Carlos Alonso, expert en seguretat informàtica.
 - El Cristian, explorador de nous reptes.
 - El Carles Fugarolas, mestre de servidors i xarxes.
 - La Cristina, experta en desenvolupament de software.
@@ -49,11 +49,12 @@ En definitiva, aquest projecte és la vostra porta d’entrada a EverPia: la con
 - Tasca 1. Crear repositori individual lliurament.
 - Tasca 2. Creació tauler Kanban al projecte.
 - Tasca 3. IA Prompting masterclass.
-- Tasca 4. Generació contingut amb Notebook LM.
+- Tasca 4. Generació contingut amb Gemini Notebook.
 - Tasca 5. Gestor de contrasenyes i autenticació multifactor.
 - Tasca 6. Gestió emmagatzematge flexible.
 - Tasca 7. Tasca Serveis (DNS)?
-...
+- Tasca 8. IPO-II
+- Tasca 9. Sostenibilitat
 
 ## Lliurament del projecte
 
