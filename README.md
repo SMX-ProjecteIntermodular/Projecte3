@@ -2,11 +2,14 @@
 
 ## Taula de continguts
 
-- [Introducció al cas](#introducció-al-cas)
-- [Compentències profesionals](./documents/Comp.md)
-- [Resultats d'aprenentatge](./documents/RA.md)
-- [Tasques a realitzar](#tasques-a-realitzar)
-- [Lliurament del projecte](#lliurament-del-projecte)
+- [Projecte 3. Comencem les pràctiques a EverPia](#projecte-3-comencem-les-pràctiques-a-everpia)
+  - [Taula de continguts](#taula-de-continguts)
+  - [Introducció al cas](#introducció-al-cas)
+  - [Tasques a realitzar](#tasques-a-realitzar)
+  - [Lliurament del projecte](#lliurament-del-projecte)
+  - [Avaluació del projecte](#avaluació-del-projecte)
+  - [Organització del treball](#organització-del-treball)
+  - [Durada i temporització](#durada-i-temporització)
 
 ## Introducció al cas
 
@@ -49,8 +52,15 @@ La nota final del projecte es calcularà amb la següent fórmula:
 
 :exclamation: Cal definir notes
 
+| Tasques individuals          | Tasques en grup          |
+|--------------------          |----------------          |
+| Tasca 2: Repositori GitHub   | Tasca 1: Seguiment Kanban|
+| Tasca 5: Gemini Notebook     | Tasca 6: Presentació     |
+| Tasca 6: Presentació ind.    |                          |
+
 $$
-\text{Nota final} = \frac{\sum_{i=1}^{n} \text{Nota}_i}{n}
+\text{Nota final} = 0,25 \cdot \text{Tasca 2} + 0,20 \cdot \text{Tasca 5
+} + 0,10 \cdot \text{Tasca 6 individual} + 0,20 \cdot \text{Tasca 1} + 0,25 \cdot \text{Tasca 6 grupal}
 $$
 
 ## Organització del treball
