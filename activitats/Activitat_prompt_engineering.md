@@ -2,21 +2,31 @@
 
 ## Presentació de l'activitat
 
-A EverPia els consultors júnior no només resolen problemes tècnics: també han d'explicar el que han fet a clients que no són informàtics, documentar-ho amb rigor i defensar-ho en públic. Les eines d'IA generativa (Gemini, Copilot, ChatGPT, Claude…) poden estalviar moltes hores en aquesta feina, però només si se'ls sap demanar bé les coses. Un encàrrec vague dona una resposta vaga; un encàrrec precís dona un esborrany útil.
+Les eines d'IA generativa (Gemini, Copilot, ChatGPT, Claude...) poden estalviar moltes hores de feina, però només si se'ls sap demanar bé les coses. Un encàrrec vague dona una resposta vaga; un encàrrec precís dona un esborrany útil.
 
-En aquesta sessió treballarem el **prompt engineering**: la manera d'escriure instruccions clares perquè la IA generi continguts de qualitat. Veurem de quines parts consta un bon prompt, quines tècniques funcionen millor i què és un **metaprompt** (un prompt que serveix per crear o millorar altres prompts). Ho aplicarem directament al vostre projecte: en acabar tindreu una **biblioteca de prompts de l'equip** que fareu servir per preparar els continguts de la presentació del Projecte 3.
+Aquesta activitat **no va de continguts: va de mètode i d'eines**. L'objectiu és que aprenguis una manera sistemàtica de treballar amb una IA (com es construeix un prompt, com es millora, com es verifica el resultat) i que te l'emportis per a qualsevol assignatura, mòdul o feina futura. El tema sobre el qual demanaràs coses és secundari i el triaràs tu.
+
+És una **pràctica individual i guiada pas a pas**. No cal entregar cap document redactat: el que entregaràs és **el teu xat sencer**, perquè el valor està en el procés (com has anat demanant, corregint i comprovant), no en la resposta final.
 
 ### Durada de l'activitat
 
-La durada prevista de l'activitat és 2 hores a classe: 50 minuts de teoria i 70 minuts de pràctica guiada.
+La durada prevista de l'activitat és 2 hores a classe: 50 minuts de teoria i 70 minuts de pràctica guiada individual.
+
+### Eina de treball
+
+- Eina recomanada: **Gemini** amb el compte del centre (és la que tenim disponible i permet compartir l'enllaç del xat). També pots fer servir Copilot, ChatGPT o Claude si ja hi treballes, sempre que puguis entregar el xat complet.
+- **Tota la Part 1 i la Part 2 han d'anar dins d'un únic xat.** No obris xats nous ni esborris missatges: els intents fallits també s'avaluen.
+- Anomena el xat: *PE - Nom Cognom*.
+- La Part 3 (autoavaluació) es fa en un **xat nou i separat**.
 
 ### Objectius específics de l'activitat
 
 - Identificar els elements d'un prompt eficaç (rol, context, tasca, format, públic i restriccions) i detectar quins falten en un prompt fluix.
-- Aplicar tècniques bàsiques de prompt engineering: exemples (*few-shot*), pas a pas i millora iterativa.
-- Entendre què és un metaprompt i fer-ne servir per generar i millorar prompts.
-- Crear una biblioteca de prompts reutilitzables per als continguts de la presentació del projecte.
-- Validar de manera crítica els resultats de la IA abans d'incorporar-los a la documentació.
+- Aplicar tècniques bàsiques de prompt engineering: control del format de sortida, exemples (*few-shot*), descomposició pas a pas i millora iterativa.
+- Entendre què és un **metaprompt** i fer-ne servir per generar, avaluar i millorar prompts propis.
+- Verificar de manera crítica els resultats de la IA i detectar invencions o errors.
+- Construir una petita **biblioteca personal de prompts reutilitzables**.
+- Autoavaluar el propi treball amb una rúbrica i justificar la valoració amb evidències.
 
 ### Competències treballades
 
@@ -30,226 +40,200 @@ o) Utilitzar els mitjans de consulta disponibles, seleccionant-ne el més adequa
 
 r) Adaptar-se a diferents llocs de treball i noves situacions laborals originats per canvis tecnològics i organitzatius en els processos productius.
 
-### Resultats d'aprenentatge i criteris d'avaluació
+---
 
-**1713 Projecte intermodular**
+## Part 1. Pràctica guiada de prompt engineering
 
-RA2. Planteja solucions a les necessitats del sector tenint en compte la seva viabilitat, els costos associats i elaborant un petit projecte.
+Abans de començar, **tria un tema de treball** qualsevol que domines mínimament (un videojoc, un esport, muntar un PC, cuina, un tràmit, un tema d'un altre mòdul...). El tema només és l'excusa per practicar el mètode.
 
-- 2.3 Obté la informació relativa a les solucions plantejades.
-- 2.4 Identifica aspectes innovadors que puguin ser d'aplicació.
-- 2.9 Defineix i elabora la documentació per al seu disseny.
+A cada pas: escriu al xat el que se't demana, llegeix la resposta i escriu-hi tu mateix una observació curta. Aquestes observacions teves dins del xat són part de l'entrega.
 
-RA5. Transmet informació amb claredat, de manera ordenada i estructurada.
+### Pas 1. La línia base: un prompt dolent a propòsit
 
-- 5.1 Manté una actitud ordenada i metòdica en la transmissió de la informació.
-- 5.3 Transmet informació entre els membres del grup utilitzant mitjans informàtics.
-- 5.4 Coneix els termes tècnics en altres llengües que siguin estàndards del sector.
+1. Escriu al xat un prompt deliberadament vague sobre el teu tema. Per exemple:
 
-### Continguts
+   > Fes-me un resum sobre xarxes.
 
-- Què és un prompt i com "entén" una IA generativa el que li demanem.
-- Anatomia d'un prompt eficaç: rol, context, tasca, format, públic i restriccions.
-- Tècniques: instrucció directa (*zero-shot*), amb exemples (*few-shot*), pas a pas i millora iterativa.
-- Metaprompts: generador, entrevistador i millorador de prompts. Plantilles amb variables.
-- Límits i riscos: al·lucinacions, biaixos, dades personals i confidencials.
-- Validació dels resultats i registre de prompts.
+2. Llegeix la resposta sense tocar res.
+3. Escriu al xat un missatge teu que comenci per *OBSERVACIÓ 1:* i digui **tres defectes concrets** de la resposta (massa genèrica, longitud inadequada, públic equivocat, format inútil, dades dubtoses...).
 
-### Capacitats clau treballades
+Aquesta primera resposta és la teva **línia base**: al final compararàs amb ella.
 
-- Autonomia
-- Organització del treball
-- Treball en equip
-- Innovació
-- Resolució de problemes
-- Responsabilitat
+### Pas 2. Anatomia d'un bon prompt
 
-### Semàfor ús de la IA
+Un prompt eficaç acostuma a tenir sis peces. Les recordarem com a **RCTFPR**:
 
-🔵 Ús obligatori
+| Peça | Pregunta que respon | Exemple |
+|---|---|---|
+| **R**ol | Qui vols que sigui la IA? | Ets professor de tecnologia de 4t d'ESO. |
+| **C**ontext | Quina és la situació? | Preparo una sessió de 15 minuts per a alumnes sense coneixements previs. |
+| **T**asca | Què ha de fer exactament? | Explica què és una adreça IP i per què serveix. |
+| **F**ormat | Com ho vols rebre? | En 5 punts, màxim 2 línies cada punt. |
+| **P**úblic | Per a qui és? | Per a alumnes de 15 anys. |
+| **R**estriccions | Què no pot fer? | Sense anglicismes, sense parlar de subxarxes, sense inventar dades. |
 
-La IA forma part explícita de l'objectiu d'aprenentatge. Has d'utilitzar-la, analitzar-la, comparar-la o auditar-la seguint instruccions concretes.
+**El que has de fer:** reescriu el prompt del Pas 1 incloent-hi les sis peces i envia'l. Després escriu *OBSERVACIÓ 2:* amb dues diferències que notes respecte de la línia base.
 
-**Condicions**: feu servir l'eina amb el compte del centre. No hi introduïu dades personals, contrasenyes ni informació confidencial. Cal guardar tots els prompts utilitzats i les respostes obtingudes (registre de prompts), perquè formen part del lliurament.
+### Pas 3. Controlar el format de sortida
 
-## Enunciat de l'activitat
+La IA respon en el format que li demanes. Si no l'hi dius, se l'inventa.
 
-### Requeriments previs
+**El que has de fer:** demana-li la **mateixa informació del Pas 2** en un format diferent i molt concret. Tria'n un:
 
-- Tenir accés a una eina d'IA generativa amb el compte del centre.
-- Tenir el repositori de l'equip del Projecte 3 a GitHub amb la documentació de les tasques fetes fins ara.
-- Tenir a mà els apunts i manuals dels mòduls implicats en el projecte.
+> Torna-m'ho en una taula amb tres columnes: Concepte | Explicació en una frase | Error típic.
 
-### Part 1. Teoria (50 minuts)
+Després escriu *OBSERVACIÓ 3:* dient per a què et seria útil cada format (text seguit, llista, taula) en una feina real.
 
-#### 1.1 Què és un prompt?
+### Pas 4. Donar exemples (few-shot)
 
-Un **prompt** és la instrucció que donem a una eina d'IA generativa. La IA no "sap" què volem: genera la resposta més probable a partir del text que rep. Per això, tot el que no li expliquem s'ho ha d'inventar o ho resol de la manera més genèrica possible.
+Si li ensenyes com vols les coses, ho imita. Això és *few-shot prompting*.
 
-Penseu-hi com si fos un company nou que acaba d'arribar a EverPia: és molt capaç, però no coneix el client, ni el projecte, ni què espereu d'ell. Si li dieu "fes-me un resum del DHCP", us farà un resum qualsevol. Si li expliqueu per a qui és, per a què servirà i quin format voleu, us farà el que necessiteu.
+**El que has de fer:** envia un prompt que inclogui **dos exemples teus** del resultat que esperes i li demani que en generi tres més amb el mateix estil. Per exemple:
 
-#### 1.2 Anatomia d'un prompt eficaç
+> Genera preguntes de repàs seguint exactament aquest estil:
+> Exemple 1: Què passa si dos equips tenen la mateixa adreça IP? (resposta curta, 1 frase)
+> Exemple 2: Per què un cable mal crimpat pot donar connexió intermitent? (resposta curta, 1 frase)
+> Ara genera 3 preguntes més sobre el mateix tema, amb el mateix format i dificultat.
 
-Un bon prompt respon sis preguntes:
+Escriu *OBSERVACIÓ 4:* dient si ha respectat l'estil dels exemples i en què se n'ha desviat.
 
-| Element | Pregunta que respon | Exemple |
-| :--- | :--- | :--- |
-| **Rol** | Qui ha de ser la IA? | "Actua com a tècnic de sistemes sènior d'una consultora IT." |
-| **Context** | Quina és la situació? | "Hem instal·lat un servidor DHCP amb Ubuntu Server per a una gestoria de 12 treballadors." |
-| **Tasca** | Què ha de fer exactament? | "Explica què fa el servei i quins avantatges té per al client." |
-| **Format** | Com ha de ser el resultat? | "Tres paràgrafs curts i una taula amb dues columnes: abans / després." |
-| **Públic i to** | Per a qui és? | "Per a la gerent de la gestoria, que no és informàtica. To proper i professional, en català." |
-| **Restriccions** | Què ha d'evitar o respectar? | "Màxim 150 paraules. Sense sigles sense explicar. Si no saps una dada, digues-ho." |
+### Pas 5. Demanar-ho pas a pas (descomposició)
 
-No sempre calen tots sis, però com més n'hi hagi, menys ha d'endevinar la IA.
+Les tasques grans surten millor si les trosseges o si demanes que raoni abans de respondre.
 
-**Prompt fluix**
+**El que has de fer:** tria una tasca una mica complexa del teu tema (planificar, comparar, decidir) i demana-la **en dues fases**:
 
-```text
-Fes-me un resum del DHCP.
-```
+> Fase 1: abans de respondre, llista els criteris que faràs servir per comparar les opcions i espera la meva confirmació.
 
-**Prompt complet**
+Quan contesti, revisa els criteris, corregeix-ne algun i només llavors demana-li la fase 2 (la comparació feta). Escriu *OBSERVACIÓ 5:* comparant aquest resultat amb el que hauries obtingut demanant-ho tot de cop.
 
-```text
-Actua com a tècnic de sistemes sènior d'una consultora IT.
-Hem instal·lat un servidor DHCP amb Ubuntu Server per a una gestoria de
-12 treballadors que fins ara configurava les adreces IP a mà.
-Explica què fa aquest servei i quins avantatges té per al client.
-Escriu-ho per a la gerent, que no és informàtica: to proper i professional,
-en català, sense sigles sense explicar.
-Format: tres paràgrafs curts i, al final, una taula "Abans / Després".
-Màxim 150 paraules. Si et falta alguna dada, pregunta-me-la abans d'escriure.
-```
+### Pas 6. Millora iterativa
 
-#### 1.3 Tècniques que funcionen
+Un prompt gairebé mai surt bé al primer intent. El que distingeix un usuari expert és **com corregeix**.
 
-- **Instrucció directa (*zero-shot*)**: demanem la tasca sense exemples. Serveix per a encàrrecs senzills.
-- **Amb exemples (*few-shot*)**: enganxem un o dos exemples del resultat que volem ("escriu-ho amb aquest mateix estil"). És la millor manera d'aconseguir que tota la documentació de l'equip tingui el mateix to.
-- **Pas a pas**: demanem que primer plantegi l'esquema i, quan l'hàgim validat, que el desenvolupi. Dividir una feina gran en passos petits dona resultats molt millors que demanar-ho tot de cop.
-- **Delimitadors**: separem les instruccions del material amb marques clares (`"""text"""`, `<apunts>…</apunts>`), perquè la IA no confongui què és ordre i què és contingut.
-- **Millora iterativa**: el primer resultat gairebé mai és el definitiu. Llegim, detectem què falla i afinem el prompt.
+**El que has de fer:** sobre l'última resposta, fes tres iteracions seguides, una per missatge, amb instruccions de correcció concretes (no val dir "fes-ho millor"):
 
-```mermaid
-flowchart LR
-    A[Escriure el prompt] --> B[Llegir la resposta]
-    B --> C{És el que necessito?}
-    C -- No --> D[Detectar què falta: context, format, públic...]
-    D --> A
-    C -- Sí --> E[Validar el contingut amb fonts fiables]
-    E --> F[Desar el prompt a la biblioteca]
-```
+1. Una iteració de **longitud o densitat**: "Redueix-ho a la meitat sense perdre cap idea clau."
+2. Una iteració de **to o públic**: "Reescriu-ho per a algú que no ha vist mai un ordinador per dins."
+3. Una iteració de **contingut**: "Afegeix un exemple real a cada punt i elimina el punt 3, que no aporta res."
 
-#### 1.4 Metaprompts: prompts per fer prompts
+Escriu *OBSERVACIÓ 6:* indicant quina de les tres iteracions ha millorat més el resultat i per què.
 
-Un **metaprompt** és un prompt que té com a resultat un altre prompt. En lloc de demanar el contingut directament, demanem a la IA que ens ajudi a escriure la millor instrucció possible. Hi ha tres patrons bàsics:
+### Pas 7. Verificació crítica
 
-**a) Generador**: la IA escriu el prompt per nosaltres.
+La IA pot inventar-se dades amb molta seguretat. No entregues mai res sense comprovar-ho.
 
-```text
-Ets un expert en prompt engineering.
-Escriu el millor prompt possible perquè una IA generi [QUÈ VULL].
-El prompt ha d'incloure rol, context, tasca, format, públic i restriccions.
-Retorna només el prompt, dins d'un bloc de codi.
-```
+**El que has de fer:**
 
-**b) Entrevistador**: la IA ens pregunta el que necessita saber abans d'escriure.
+1. Demana-li: *Marca quines afirmacions de la teva última resposta són fets verificables i quines són opinions o estimacions. Indica el teu nivell de confiança en cada fet.*
+2. Tria **un fet concret** i comprova'l tu, fora del xat, en una font fiable.
+3. Escriu *OBSERVACIÓ 7:* amb el fet comprovat, la font i si era correcte, incorrecte o imprecís.
 
-```text
-Vull crear un prompt per generar [QUÈ VULL].
-Abans d'escriure'l, fes-me d'una en una les preguntes que necessitis
-per conèixer el context, el públic i el format.
-Quan tinguis prou informació, escriu el prompt final.
-```
+### Pas 8. La teva fitxa de prompt
 
-**c) Millorador**: la IA revisa un prompt nostre.
+**El que has de fer:** escriu al xat la versió final i neta del teu millor prompt, amb aquesta fitxa:
 
-```text
-Aquest és el meu prompt:
-"""
-[EL MEU PROMPT]
-"""
-Analitza'l: digues quins elements hi falten (rol, context, tasca, format,
-públic, restriccions) i quines parts són ambigües.
-Després reescriu-lo millorat i explica'm en tres punts què has canviat.
-```
+> **Nom del prompt:**
+> **Per a què serveix:**
+> **Prompt complet:** (amb RCTFPR)
+> **Variables a canviar:** (el que substituiràs cada vegada, entre claudàtors)
+> **Com saber si ha funcionat:** (dues condicions)
 
-Les paraules entre claudàtors són **variables**: només cal canviar-les per reutilitzar la plantilla en una altra tasca. Un prompt amb variables és una eina de l'equip, no un missatge d'un sol ús.
+---
 
-#### 1.5 Límits i bones pràctiques
+## Part 2. Metaprompts
 
-- **La IA s'equivoca amb molta seguretat.** Pot inventar ordres, paràmetres, versions o dades (al·lucinacions). Tot contingut tècnic s'ha de comprovar amb els apunts, la documentació oficial o una prova real al vostre servidor.
-- **No hi poseu dades sensibles.** Ni contrasenyes, ni dades personals, ni configuracions reals d'un client.
-- **El responsable del resultat sou vosaltres.** Si un error arriba a la presentació, l'error és de l'equip, no de la IA.
-- **Guardeu els prompts.** Un bon prompt es pot tornar a fer servir; i el registre demostra com heu treballat.
+Un **metaprompt** és un prompt que no et dona el resultat final, sinó que **treballa sobre els prompts**: te'n genera un, te'l critica o te'l millora. És la manera més ràpida de pujar de nivell: en comptes d'escriure prompts cada vegada millors a base d'intuïció, fas que la IA t'ajudi a dissenyar-los.
 
-### Part 2. Pràctica guiada (70 minuts)
+Continua **al mateix xat** que la Part 1.
 
-Treballeu amb el vostre equip de projecte. Feu servir Gemini amb el compte del centre (o l'eina que indiqui el professorat) i aneu omplint el fitxer `solucio.md`.
+### Pas 9. Metaprompt generador
 
-**Exercici 1. Diagnòstic (10 minuts)**
+**El que has de fer:** envia aquest metaprompt (adaptat al teu tema):
 
-Marqueu amb una ✗ els elements que falten a cadascun d'aquests prompts.
+> Ets expert en prompt engineering. No resolguis la tasca encara.
+> Vull un prompt per a [la teva tasca]. Construeix-me el prompt òptim: inclou-hi rol, context, tasca, format, públic i restriccions, i explica en una línia per què has triat cada element.
 
-| Prompt | Rol | Context | Tasca | Format | Públic | Restriccions |
-| :--- | :-: | :-: | :-: | :-: | :-: | :-: |
-| "Explica'm què és un SAI." | | | | | | |
-| "Fes una presentació del nostre projecte." | | | | | | |
-| "Ets un tècnic. Escriu com es configura un servidor Linux." | | | | | | |
+Compara el prompt que t'ha construït amb el teu del Pas 8 i escriu *OBSERVACIÓ 8:* amb dues coses que ell ha previst i tu no.
 
-**Exercici 2. Del prompt fluix al prompt complet (15 minuts)**
+### Pas 10. Metaprompt avaluador
 
-1. Trieu una de les tasques tècniques que heu fet al Projecte 3.
-2. Escriviu un prompt fluix (una sola frase) per demanar una explicació d'aquesta tasca per al client. Executeu-lo i deseu la resposta.
-3. Reescriviu-lo amb els sis elements de la taula del punt 1.2. Executeu-lo en un xat nou i deseu la resposta.
-4. Compareu els dos resultats: quines tres diferències hi veieu?
+**El que has de fer:** enganxa-li el **prompt dolent del Pas 1** amb aquesta instrucció:
 
-**Exercici 3. Amb exemples (10 minuts)**
+> Avalua aquest prompt del 0 al 10 segons claredat, context, especificitat de la tasca, format i restriccions. Per a cada criteri digues què falla i reescriu el prompt en una versió millorada. No executis el prompt.
 
-Copieu un fragment de la vostra pròpia documentació (un `solucio.md` d'una tasca anterior) i feu-lo servir com a exemple d'estil: demaneu a la IA que redacti, amb el mateix to i la mateixa estructura, la introducció d'una altra tasca del projecte. Feu servir delimitadors per separar l'exemple de la instrucció.
+Escriu *OBSERVACIÓ 9:* dient si estàs d'acord amb la seva puntuació i en què no.
 
-**Exercici 4. Metaprompt (15 minuts)**
+### Pas 11. Metaprompt amb entrevista
 
-1. Feu servir el metaprompt **entrevistador** per crear un prompt que generi el guió oral (2 minuts) amb què presentareu una de les tasques del projecte.
-2. Responeu les preguntes que us faci la IA i deseu el prompt final que us proposi.
-3. Passeu el prompt de l'exercici 2 pel metaprompt **millorador**. Què hi ha canviat? Hi esteu d'acord?
+El problema habitual és que nosaltres mateixos no sabem prou bé què volem. Es resol fent que la IA ens entrevisti.
 
-**Exercici 5. Biblioteca de prompts de l'equip (15 minuts)**
+**El que has de fer:**
 
-Creeu quatre plantilles reutilitzables, amb variables entre claudàtors, per preparar la presentació del projecte:
+> Ets expert en prompt engineering. Vull crear un prompt reutilitzable per a [la teva tasca], però no tinc clar el detall.
+> Fes-me les preguntes que necessitis, d'una en una, fins que tinguis prou informació. Quan la tinguis, digues-m'ho i genera el prompt final.
 
-| Núm. | Plantilla | Per a què servirà |
-| :-: | :--- | :--- |
-| 1 | Guió oral d'una tasca | Text de 2 minuts per explicar una tasca davant del client. |
-| 2 | Estructura de diapositives | Títol i tres idees clau per a cada diapositiva de la presentació. |
-| 3 | Preguntes difícils | Deu preguntes que us podria fer el client o el professorat, amb pistes de resposta. |
-| 4 | Glossari tècnic | Termes tècnics del projecte amb la definició i l'equivalent en anglès. |
+Respon honestament totes les preguntes. Escriu *OBSERVACIÓ 10:* amb la pregunta que t'ha fet pensar més.
 
-Proveu-ne com a mínim dues i ajusteu-les fins que el resultat us serveixi.
+### Pas 12. La teva biblioteca personal de prompts
 
-**Exercici 6. Validació (5 minuts)**
+**El que has de fer:** per acabar la Part 2, escriu al xat **tres prompts reutilitzables** amb el format de fitxa del Pas 8. Han de ser prompts que de debò pensis fer servir més endavant (per estudiar, per resumir, per corregir textos, per preparar exàmens, per documentar feina tècnica...). Com a mínim un ha de ser un **metaprompt**.
 
-Trieu tres afirmacions tècniques de qualsevol de les respostes obtingudes i comproveu-les amb els apunts o amb la documentació oficial. Ompliu la taula:
+---
 
-| Afirmació de la IA | Font amb què l'heu comprovat | Correcta? | Correcció |
-| :--- | :--- | :-: | :--- |
-| | | | |
+## Part 3. Autoavaluació amb rúbrica (xat nou)
 
-### Què cal lliurar, on i com?
+Aquesta part es fa en un **xat nou i separat** del de les parts 1 i 2. Anomena'l *AUTOAVALUACIÓ PE - Nom Cognom*.
 
-**Què**: una carpeta `activitat-prompt-engineering` amb dos fitxers:
+La nota la poses **tu**: la IA només t'ajuda a mirar-te la feina amb criteri. Procediment:
 
-- `README.md`: presentació breu de l'activitat (què heu treballat i amb quina eina).
-- `solucio.md`: les taules dels exercicis 1 i 6, els prompts i un resum de les respostes dels exercicis 2, 3 i 4, la biblioteca de prompts de l'exercici 5 i una reflexió final de l'equip (5-8 línies): què heu après i què fareu diferent a partir d'ara.
+1. Enganxa al xat nou la **rúbrica** d'aquesta activitat (la taula de sota).
+2. Enganxa la teva feina: els prompts finals del Pas 8 i del Pas 12, i tres o quatre de les teves observacions.
+3. Envia aquest prompt:
 
-**On**: al repositori de GitHub de l'equip del Projecte 3.
+   > Ets avaluador exigent però just. Et dono una rúbrica i la meva feina d'una pràctica de prompt engineering.
+   > Per a cada criteri: digues en quin nivell em situaries, cita l'evidència concreta de la meva feina que ho justifica i indica exactament què hauria de fer per pujar un nivell. No inflis la valoració. Si no hi ha evidència d'un criteri, digues-ho clarament.
 
-**Com**: en format Markdown. Els prompts han d'anar dins de blocs de codi. Si hi afegiu captures, deseu-les a la carpeta `/img`. Un lliurament per equip, abans d'acabar la sessió; actualitzeu també la tasca corresponent al tauler Kanban.
+4. Llegeix-ho de manera crítica. **No has d'acceptar-ho tal qual.**
+5. Escriu al xat la teva **taula d'autoavaluació definitiva**, amb aquest format:
 
-## Material de suport
+   > | Criteri | El meu nivell | Evidència (on es veu al meu xat) | Hi estic d'acord amb la IA? |
+   >
+   > **Nota global que em poso:** __ / 10
+   > **Dues coses que he après sobre el mètode:**
+   > **Una acció concreta de millora per a la pròxima vegada:**
 
-- [Semàfor d'IA de l'Escola Pia Mataró](https://sites.google.com/mataro.epiaedu.cat/semafor-ia): què vol dir cada nivell d'ús de la IA.
-- [Estratègies de disseny de prompts (Google AI)](https://ai.google.dev/gemini-api/docs/prompting-strategies)
-- [Guia de prompt engineering (Anthropic)](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/overview)
-- [Learn Prompting](https://learnprompting.org/docs/introduction): curs obert d'introducció.
-- [Documentació de Mermaid](https://mermaid.js.org/) per als diagrames en Markdown.
+Es valora la **coherència** entre la nota que et poses, les evidències que aportes i el que es veu al xat de les parts 1 i 2. Inflar-se la nota sense evidències baixa la qualificació d'aquest apartat; detectar bé les pròpies mancances la puja.
+
+### Rúbrica d'autoavaluació
+
+| Criteri | Pes | 1. Insuficient | 2. Suficient | 3. Notable | 4. Excel·lent |
+|---|---|---|---|---|---|
+| **C1. Elements del prompt (RCTFPR)** | 15% | Prompts vagues, sense rol ni context | Hi ha tasca i algun element més | Apareixen gairebé tots els elements i són pertinents | Els sis elements estan treballats i justificats; les restriccions són útils de debò |
+| **C2. Tècniques aplicades** | 15% | No s'aprecien tècniques | S'aplica alguna tècnica de manera superficial | S'apliquen format, few-shot i pas a pas correctament | S'apliquen amb criteri i s'explica per què cada tècnica encaixa amb la tasca |
+| **C3. Millora iterativa** | 15% | No hi ha iteracions o són del tipus "fes-ho millor" | Hi ha iteracions però poc concretes | Tres iteracions amb instruccions clares i efecte visible | Les iteracions mostren una estratègia: cada correcció ataca un problema identificat |
+| **C4. Ús de metaprompts** | 15% | No s'han fet servir | S'ha copiat un metaprompt sense adaptar-lo | Els tres metaprompts s'han adaptat al propi cas | S'han adaptat i se'n compara el resultat amb el treball propi, amb conclusions |
+| **C5. Verificació crítica** | 15% | S'accepta tot el que diu la IA | Es comenta que caldria comprovar-ho, però no es fa | Es comprova un fet amb font i es diu el resultat | Es detecta una imprecisió o invenció i s'explica com s'ha vist |
+| **C6. Biblioteca de prompts** | 15% | No hi ha prompts reutilitzables | Prompts copiats, difícils de reutilitzar | Tres fitxes completes i reutilitzables | Fitxes amb variables, criteris d'èxit i utilitat clara més enllà de l'activitat |
+| **C7. Qualitat de l'autoavaluació** | 10% | Taula buida o nota sense justificar | Nota justificada vagament | Nivells coherents amb evidències citades | Autoavaluació honesta i precisa, amb mancances detectades i una millora concreta |
+
+Equivalència orientativa: 1 = 0-4 punts, 2 = 5-6 punts, 3 = 7-8 punts, 4 = 9-10 punts.
+
+---
+
+## Què s'entrega
+
+1. **Enllaç del xat de les parts 1 i 2** (xat compartit, amb totes les observacions numerades de l'1 al 10).
+2. **Enllaç del xat d'autoavaluació** (Part 3), amb la taula d'autoavaluació i la nota justificada.
+
+Per compartir un xat de Gemini: obre el menú del xat i tria *Compartir* o *Compartir i exportar*, crea l'enllaç públic i comprova que s'obre abans d'entregar-lo.
+
+### Llista de comprovació abans d'entregar
+
+- [ ] El xat porta el meu nom.
+- [ ] Hi ha els 12 passos i es veuen els prompts que he escrit jo.
+- [ ] Hi ha les 10 observacions numerades, escrites per mi.
+- [ ] Hi ha la fitxa del Pas 8 i les tres fitxes del Pas 12 (una és un metaprompt).
+- [ ] Al Pas 7 hi ha un fet comprovat amb la font.
+- [ ] El xat d'autoavaluació és un xat diferent i conté la rúbrica, la taula i la nota.
+- [ ] Els dos enllaços s'obren correctament des d'una finestra privada.
