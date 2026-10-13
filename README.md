@@ -1,4 +1,4 @@
-# Projecte 3: EverPia I
+# Projecte 3. Comencem les pràctiques a EverPia
 
 ## Taula de continguts
 
@@ -10,54 +10,65 @@
 
 ## Introducció al cas
 
-** Retocar presentació i imatges **´
+En aquest tercer projecte intermodular de segon curs comenceu una nova etapa, fer l'estada a empresa de l’empresa EverPia.
 
-Benvinguts a EverPia, una consultora IT que té com a missió resoldre els reptes tecnològics de clients molt diversos. Acabeu d’incorporar-vos a l’empresa com a nous consultors júnior i, a partir d’avui, formareu part de l’equip que dona servei a diferents organitzacions. Cada client té les seves necessitats concretes i, sovint, semblen projectes inconnexos. Però no us enganyeu: el que realment us demanem és capacitat d’adaptació, visió global i organització.
+Benvinguts a EverPia, una consultora IT que té com a missió resoldre els reptes tecnològics de clients molt diversos. Acabeu d’incorporar-vos a l’empresa com alumnes en pràctiques i, com a part del vostre procés de formació, haureu de participar en un projecte real. L’objectiu és que pugueu aplicar els coneixements adquirits al llarg del cicle formatiu i desenvolupar competències professionals en un entorn laboral.
 
-![Logo_EverPia](./img/logoEverPia.png)
+L’origen d’EverPia es remunta a uns anys enrere, quan sis professors van decidir unir les seves forces. Tots ells compartien una passió: la informàtica i l’educació. Però també una convicció profunda: la tecnologia no té sentit si no ajuda a les persones i a les organitzacions a créixer.
 
-L’origen d’EverPia es remunta a uns anys enrere, quan vuit professors —Blai, Isabel, Carlos, Cristian, Carles, Cristina i Núria— van decidir unir les seves forces. Tots ells compartien una passió: la informàtica i l’educació. Però també una convicció profunda: la tecnologia no té sentit si no ajuda a les persones i a les organitzacions a créixer.
+Junts van fundar la consultora EverPia, un nom que uneix “ever” (sempre) amb “Pia”, en homenatge a l’esperit educatiu i a la visió de treballar per un futur millor. La seva llegenda comença en una petita sala plena de cables i ordinadors antics, on van jurar: “Mai treballarem sols. Cada projecte serà una oportunitat per créixer junts.”
 
-- En Blai, 
-- La Isabel, experta en auditories.
-- El Carlos Alonso, expert en seguretat informàtica.
-- El Cristian, explorador de nous reptes.
-- El Carles Fugarolas, mestre de servidors i xarxes.
-- La Cristina, experta en desenvolupament de software.
-- La Núria, creadora d’idees i projectes.
+![Logo EverPia](./img/logoEverPia.png)
 
-Junts van fundar la consultora EverPia, un nom que uneix “ever” (sempre) amb “Pia”, en homenatge a l’esperit educatiu i a la visió de treballar per un futur millor. La seva llegenda comença en una petita sala plena de cables i ordinadors antics, on van jurar: *“Mai treballarem sols. Cada projecte serà una oportunitat per créixer junts.”*
+I què fareu? Treballareu mitjançant control de versions, usant git i GitHub, i aplicareu tècniques de gestió de projectes com Kanban. A més, us introduireu en l’ús professional de la intel·ligència artificial (IA) per millorar la vostra productivitat i generar contingut de qualitat.
 
-Ara sou vosaltres qui entreu a formar part d’aquesta història. Acabeu de ser contractats com a consultors júnior d’EverPia i us enfrontareu a reptes reals, provinents de clients molt diferents.
+Finalment, per posar en pràctica tot el que haureu après, col·laborareu en un projecte real. D'aquesta manera, es podrà comprovar el vostre grau d'assoliment d'aquests coneixements i obrir-vos la porta a una futura incorporació com a consultors júniors.
 
-![Consultora](./img/consultora.png)
+Una petita empresa client d’EverPia vol millorar la manera com el seu personal protegeix els comptes i la informació. Per això, us encarrega preparar una acció de conscienciació sobre la creació i la gestió de contrasenyes segures i l’ús de l’autenticació multifactor (MFA). El repte no és només explicar conceptes tècnics: cal entendre les necessitats del públic, seleccionar informació fiable i comunicar recomanacions clares i útils a persones que potser no tenen coneixements d’informàtica.
 
-Cada encàrrec pot semblar independent, però tots formen part d’una mateixa aventura: demostrar que sou capaços de treballar amb professionalitat, rigor i esperit col·laboratiu.
+Per donar resposta a l’encàrrec, us organitzareu en equips de dues persones i planificareu la feina amb un tauler Kanban. Fareu servir GitHub per documentar el procés i compartir els resultats; practicareu com donar instruccions precises a les eines d’intel·ligència artificial i com aprofitar NotebookLM per treballar amb fonts, generar materials de suport i preparar la presentació. La IA us ajudarà a elaborar esborranys, però l’equip serà responsable de comprovar les fonts, corregir possibles errors i adaptar el contingut al client.
 
-El repte és clar: aprendre a funcionar com a consultora. Això implica no només resoldre problemes tècnics, sinó també organitzar-vos, planificar i documentar. A EverPia es treballa amb la metodologia Kanban, utilitzant l’eina Planner, i es valora moltíssim mantenir el backlog de tasques al dia. Aquesta serà la clau de l’èxit en tots els projectes que us encarreguin.
-
-Les tasques que us esperen són diverses: des de crear el vostre compte a GitHub i començar a documentar-vos amb Markdown, fins a seleccionar un SAI per protegir una empresa de talls elèctrics, recuperar l’accés a un sistema bloquejat, configurar un servidor Linux, desplegar serveis de xarxa com el DHCP, reflexionar sobre la sostenibilitat en l’àmbit tecnològic, o desenvolupar una pàgina web.
-
-L’objectiu últim és que desenvolupeu les vostres competències tècniques i professionals, però també que experimenteu el que significa ser part d’una consultora: treballar en equip, afrontar imprevistos, comunicar-vos amb claredat i entregar productes que reflecteixin qualitat i compromís.
-
-En definitiva, aquest projecte és la vostra porta d’entrada a EverPia: la consultora nascuda de la passió d’uns professors, i que ara posa en les vostres mans la responsabilitat d’escriure el següent capítol de la seva història.
-
-![EverPia_oficina](./img/everpia_oficina.png)
+El projecte culminarà amb una presentació de la proposta de conscienciació. Haureu de defensar les recomanacions amb criteri, explicar-les amb claredat i demostrar que sabeu combinar coneixements tècnics, treball en equip, documentació i comunicació professional.
 
 ## Tasques a realitzar
 
-- Tasca 1. Crear repositori individual lliurament.
-- Tasca 2. Creació tauler Kanban al projecte.
+- Tasca 1. Creació tauler Kanban al projecte.
+- Tasca 2. Ús de GitHub. Creació del repositori.
 - Tasca 3. IA Prompting masterclass.
-- Tasca 4. Generació contingut amb Gemini Notebook.
-- Tasca 5. Gestor de contrasenyes i autenticació multifactor.
-- Tasca 6. Gestió emmagatzematge flexible.
-- Tasca 7. Tasca Serveis (DNS)?
-- Tasca 8. IPO-II
-- Tasca 9. Sostenibilitat
+- Tasca 4. Ús de Gemini Notebook.
+- Tasca 5. Generació material d'estudi amb Gemini Notebook.
+- Tasca 6. Presentació concienació ús contrasenyes i MFA.
 
 ## Lliurament del projecte
 
-A la pàgina README.md completeu les dades que es demanen. Crear les carpetes corresponents a les tasques demanades i a dins crear un README.md presentant l'activitat i un arxiu solucio.md amb la solució elaborada.
+El lliurament del projecte es farà a través del repositori GitHub. Cada alumne haurà de tenir el seu repositori en **privat** i afegir com a col·laboradors als professors de projecte.
 
-Les imatges que s'incorporin han d'estar dins una carpeta `/img` i si cal incorporar diagrames, esquemes, etc. es recomana que feu servir el format mermaid, tot i que també podeu incorporar imatges amb el format png o jpg si ho preferiu.
+## Avaluació del projecte
+
+La nota final del projecte es calcularà amb la següent fórmula:
+
+:exclamation: Cal definir notes
+
+$$
+\text{Nota final} = \frac{\sum_{i=1}^{n} \text{Nota}_i}{n}
+$$
+
+## Organització del treball
+
+En aquest projecte es treballarà en grups de 2 persones. Hi haurà activitats individuals i activitats en grup. Cada membre del grup haurà de documentar les activitats individuals i les de grup en el seu repositori GitHub. Òbviament, el contingut de les activitats en grup serà el mateix per a tots dos membres del grup.
+
+## Durada i temporització
+
+El projecte té una durada de **18 hores**, repartides en 9 sessions de 2 hores. La temporització de les sessions és la següent:
+
+| Sessió  | Data       | Contingut                                    |
+|-------- |------      |-----------                                   |
+|1        | 16/10/2026 | Presentació i creació del tauler Kanban.     |
+|2        | 19/10/2026 | Activitat GitHub .                           |
+|3        | 20/10/2026 | Activitat IA Prompting masterclass.          |
+|4        | 23/10/2026 | Activitat Gemini Notebook. Seguiment Kanban. |
+|5        | 26/10/2026 | Activitat Gemini Notebook: material d'estudi.|
+|6        | 27/10/2026 | Activitat Gemini Notebook: material d'estudi.|
+|7        | 30/10/2026 | Gestió repositori. Seguiment Kanban.         |
+|8        | 03/11/2026 | Preparar presentació Seguretat Informàtica.  |
+|9        | 06/11/2026 | Presentacions Seguretat Informàtica.         |
