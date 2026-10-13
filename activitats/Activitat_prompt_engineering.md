@@ -2,7 +2,7 @@
 
 ## Presentació de l'activitat
 
-A EverPia els consultors júnior no només resolen problemes tècnics: també han d'explicar el que han fet a clients que no són informàtics, documentar-ho amb rigor i defensar-ho en públic. Les eines d'IA generativa (Gemini, Copilot, ChatGPT, Claude…) poden estalviar moltes hores en aquesta feina, però només si se'ls sap demanar bé les coses. Un encàrrec vague dona una resposta vaga; un encàrrec precís dona un esborrany útil.
+Estem aprenent metodologia de projectes. Les eines d'IA generativa (Gemini, Copilot, ChatGPT, Claude…) poden estalviar moltes hores en aquesta feina, però només si se'ls sap demanar bé les coses. Un encàrrec vague dona una resposta vaga; un encàrrec precís dona un esborrany útil.
 
 En aquesta sessió treballarem el **prompt engineering**: la manera d'escriure instruccions clares perquè la IA generi continguts de qualitat. Veurem de quines parts consta un bon prompt, quines tècniques funcionen millor i què és un **metaprompt** (un prompt que serveix per crear o millorar altres prompts). Ho aplicarem directament al vostre projecte: en acabar tindreu una **biblioteca de prompts de l'equip** que fareu servir per preparar els continguts de la presentació del Projecte 3.
 
