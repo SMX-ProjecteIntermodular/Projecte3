@@ -77,4 +77,4 @@ Producte final a entregar:
 
 ## Material de suport
 
-- [Guia creació del Kanban al Planner]()
+- [Guia creació del Kanban al Planner](https://github.com/SMX-ProjecteIntermodular/Guies/blob/main/02-crear-projecte.md)
