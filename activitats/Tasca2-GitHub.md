@@ -158,12 +158,12 @@ Al final de la sessió heu de penjar el vostre repositori corresponent al projec
 
 ## Material de suport
 
-- Material propi.[Guia 1. Iniciació a Git, GitHub i Visual Studio Code](https://github.com/SMX-ProjecteIntermodular/Projecte2/blob/main/guies/01-iniciacio-git-github-vscode.md)
+- Material propi.[Guia 1. Iniciació a Git, GitHub i Visual Studio Code](https://github.com/SMX-ProjecteIntermodular/Guies/blob/main/01-iniciacio-git-github-vscode.md)
 
-- Material propi. [Guia 2. Treballant en el repositori amb Git](https://github.com/SMX-ProjecteIntermodular/Projecte2/blob/main/guies/02-comandes-git.md)
+- Material propi. [Guia 2. Treballant en el repositori amb Git](https://github.com/SMX-ProjecteIntermodular/Guies/blob/main/02-comandes-git.md)
 
-- Material propi. [Guia 3. Markdown per treballar amb repositoris](https://github.com/SMX-ProjecteIntermodular/Projecte2/blob/main/guies/03-markdown.md)
+- Material propi. [Guia 3. Markdown per treballar amb repositoris](https://github.com/SMX-ProjecteIntermodular/Guies/blob/main/03-markdown.md)
 
-- Material propi. [Guia 4. Creació de repositoris a partir de plantilla](https://github.com/SMX-ProjecteIntermodular/Projecte3/blob/main/guies/04-creacio-repositori.md)
+- Material propi. [Guia 4. Creació de repositoris a partir de plantilla](https://github.com/SMX-ProjecteIntermodular/Guies/blob/main/04-crear-repositoris.md)
 
 - GitHub. [Documentación de GitHub](https://docs.github.com/es)
