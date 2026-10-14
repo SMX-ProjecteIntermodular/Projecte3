@@ -2,7 +2,9 @@
 
 ## Presentació de l'activitat
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede. Praesent blandit odio eu enim. Pellentesque sed dui ut augue blandit sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nibh. Mauris ac mauris sed pede pellentesque fermentum. Maecenas adipiscing ante non diam sodales hendrerit.
+En el Projecte 3 us incorporareu a EverPia com a tècnics en pràctiques i, en equip, preparareu una proposta de conscienciació sobre la seguretat dels comptes i la informació. Per deixar constància del procés i dels resultats, cada alumne crearà el seu propi repositori privat a GitHub, que farà servir per documentar les activitats del projecte i compartir-ne el seguiment amb el professorat.
+
+En aquesta activitat aprendreu a crear el repositori a partir d'una plantilla, configurar-lo i treballar-hi des de Visual Studio Code. Practicareu com editar documents Markdown en local, registrar els canvis amb commits i sincronitzar-los amb GitHub. També provocareu i resoldreu un conflicte entre una versió local i una de remota. Són eines i pràctiques habituals en projectes informàtics, que us ajudaran a mantenir la feina ordenada i a explicar amb claredat què heu fet.
 
 ### Durada de l'activitat
 
