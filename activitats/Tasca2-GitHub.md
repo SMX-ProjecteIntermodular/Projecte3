@@ -90,13 +90,13 @@ Permès per com a eina de suport en la millora de la redacció dels informes, ce
 
 3. Afegiu com a títol principal `Tasca 2: GitHub` i com a seccions les diferents fases de l'activitat.
 
-4. A la secció de la `Fase 1: Creació del repositori i primeres configuracions` documenteu amb explicacions i captures de pantalla la següent informació de la configuració (Settings) del vostre repositori:
+4. A la secció de la "Fase 1: Creació del repositori i primeres configuracions" documenteu amb explicacions i captures de pantalla la següent informació de la configuració (Settings) del vostre repositori:
 
    - A `General`, mostrar el nom del repositori.
    - A `Collaborators` mostrar que el repositori és privat i que heu afegit com a col·laboradors als professors indicats.
    > Els professors un cop reben la invitació com a col·laboradors, l'han d'acceptar per aparèixer com a col·laboradors del repositori, no patiu si en el moment de fer la captura apareixen únicament les invitacions pendents.
 
-5. A la secció de la `Fase 2: Documentació de l'activitat` documenteu amb explicacions i captures de pantalla les següents accions:
+5. A la secció de la "Fase 2: Documentació de l'activitat" documenteu amb explicacions i captures de pantalla les següents accions:
 
    - Fer el commit corresponent a la realització del punt anterior i sincronitzar el repositori amb GitHub.
    - Mostrar a GitHub (captura de pantalla) que el fitxer `Tasca2-GitHub.md` s'ha creat correctament amb el format indicat dins de la carpeta `Tasca2` i conté documentat el contingut del punt 4 mostrant el text i les imatges corresponents.
@@ -140,9 +140,17 @@ En aquesta fase, anem a provocar conflictes i veure com es poden resoldre. Per f
 
 5. Sincronitza el repositori amb GitHub. Com que hi ha un conflicte, apareixerà un missatge indicant que no es pot fer la sincronització i que cal resoldre el conflicte.
 
-6. 
+6. Resol el conflicte de manera que el fitxer `conflicte.txt` quedi amb el següent contingut:
 
-Documenta els diferents punts d'aquesta fase amb captures de pantalla i explicacions al fitxer `Tasca2-GitHub.md`, fes un commit i sincronitza el repositori amb GitHub.
+   ```text
+   Aquest és un fitxer de prova per provocar conflictes.
+   Aquesta és la versió local del fitxer.
+   Aquesta és la versió remota del fitxer.
+   ```
+
+  Hauràs de fer un commit de solució del conflicte i sincronitzar el repositori amb GitHub.
+
+Documenta els diferents punts d'aquesta fase amb captures de pantalla i explicacions al fitxer `Tasca2-GitHub.md` dins la secció "Fase 3:Resolució de conflictes", fes un commit i sincronitza el repositori amb GitHub.
 
 ### Què cal lliurar, on i com?
 
