@@ -77,6 +77,6 @@ Producte final a entregar:
 
 ## Material de suport
 
-- [Guia creació del Kanban al Planner](https://github.com/SMX-ProjecteIntermodular/Guies/blob/main/02-crear-projecte.md)
+- [Guia creació del Kanban al Planner](https://github.com/SMX-ProjecteIntermodular/Guies/blob/main/kanban/02-crear-projecte.md)
 
 - [Tutorial de Microsoft 365 Planner (5 vídeos). Autor: Squalid via YouTube](https://youtube.com/playlist?list=PL2uOSBfdIiYF7Sjsiw9WVz8f1Q5Dfyt9E&si=PIAHSZ3oQ9tZLysI)
