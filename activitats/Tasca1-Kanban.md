@@ -2,66 +2,79 @@
 
 ## Presentació de l'activitat
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede. Praesent blandit odio eu enim. Pellentesque sed dui ut augue blandit sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nibh. Mauris ac mauris sed pede pellentesque fermentum. Maecenas adipiscing ante non diam sodales hendrerit.
+En el Projecte 3 us incorporareu a EverPia com a tècnics en pràctiques i, en equips de dues persones, preparareu una proposta de conscienciació sobre la seguretat dels comptes i la informació. Per organitzar la feina i arribar a temps als lliuraments, necessitareu planificar les tasques, repartir responsabilitats i fer seguiment del progrés de l'equip.
+
+En aquesta activitat creareu un tauler Kanban amb Microsoft Planner. Hi registrareu les tasques del projecte, n'indicareu les persones responsables i n'actualitzareu l'estat a mesura que avanceu. També recollireu evidències del seguiment i, al final, resumireu la feina feta amb els gràfics del pla. Així podreu veure d'un cop d'ull què queda per fer, què està en curs i què ja heu completat.
 
 ### Durada de l'activitat
 
-La durada prevista de l'activitat és x hores a classe.
+La durada prevista de l'activitat és 2 hores a classe. Després haureu de cada dia de projecte completant les tasques assignades al Kanban. Finalment, completar el document "Kanban.md" amb la informació requerida.
 
 ### Objectius específics de l'activitat
 
-- Objectiu 1
-- Objectiu 2
-- Objectiu 3
+- Creació del Kanban al Planner pel correcte seguiment del projecte.
 
 ### Competències treballades
 
-a) Competència 1
-b) Competència 2
+j) Organitzar i desenvolupar el treball assignat mantenint unes relacions professionals adequades en l’entorn de treball.
 
 ### Resultats d'aprenentatge i criteris d'avaluació
 
-RAx.
-RAy.
+1713.RA3. Planifica l'execució de les activitats proposades a la solució plantejada, determinant el pla d'intervenció i elaborant la documentació corresponent.
 
 ### Continguts
+
+3.1 Temporitza les seqüències de les activitats.
 
 ### Capacitats clau treballades
 
 - Autonomia
 - Organització del treball
 - Treball en equip
-- Innovació
 - Resolució de problemes
 - Responsabilitat
 - Relació interpersonal
 
 ### Semàfor ús de la IA
 
-; Seleccionar l'opció que correspongui segons el nivell d'ús de la IA permès per a l'activitat.
-
 🔴 Ús No Permès
-
-🟠 Aquesta activitat permet un ús parcial o restringit.
-
-Permès per com a eina de suport en la millora de la redacció dels informes, cerca preliminar d'informació, estructuració d'idees o explicació de conceptes teòrics complexos.
-
-**Condicions**: Cal processar, entendre i validar sempre els resultats rebuts. Està totalment prohibit copiar l'enunciat d'un exercici directament al xat de la IA i enganxar la resposta generada per al lliurament final sense treball propi ni anàlisi crítica.
-
-🟢 Permès totalment.
-
-La IA és una eina co-pilot essencial. Es valora el procés de treball amb ella, però és obligatori un procés de validació posterior (defensa oral, vídeo, auditoria de prompts).
-
-🔵 Ús obligatori
-
-La IA forma part explícita de l’objectiu d’aprenentatge. Has d’utilitzar-la, analitzar-la, comparar-la o auditar-la seguint instruccions concretes.
 
 ## Enunciat de l'activitat
 
-### Requeriments previs
+### Requisits previs
 
-Cal que tingueu un servidor Linux (Ubuntu Server) instal·lat i configurat de l'activitat anterior. Cas que sigui necessari, torneu a desplegar el servidor a partir del fitxer `.OVA` que vau generar.
+Necessiteu tenir el compte de Microsoft 365 amb el correu d'escola.
+
+### Descripció de l'activitat
+
+1. Creeu un de vosaltres el Kanban al Planner.
+   - Crear un plan bàsic.
+   - Tria una plantilla "Plan Simple".
+
+2. Un cop creat, a "Comparteix", trieu l'opció nou grup i afegix-hi el teu company de grup. Selecciona visibilitat "Públic".
+
+3. Ves al menú dels tres punts i tria "Detalls del pla". Allà selecciona "Configuració", marca com a "Públic" i desa els canvis.
+
+4. Comproveu que tots dos membres del grup podeu accedir al Kanban i afegir-hi tasques.
+
+5. Completeu el `backlog` amb les tasques que heu de fer durant el projecte. Assegureu-vos que cada tasca té un títol clar i una descripció breu.
+
+6. Cada dia de projecte, actualitzeu l'estat de les tasques al Kanban segons el que hàgiu fet. És molt important que assigneu la tasca a un de vosaltres dos.
+
+7. Cada divendres, feu una captura de pantalla de l'estat del Kanban i afegiu-la al document "Kanban.md".
+
+8. Al final del projecte, completeu el document "Kanban.md" amb els gràfics que del projecteu i l'enllaç al Kanban creat al Planner. No feu una captura global, sinó de cada gràfic per separat per tal que sigui molt més visible.
 
 ### Què cal lliurar, on i com?
 
+Producte final a entregar:
+
+- Dins la carpeta Tasca1, crea un document anomenat "Kanban.md". Aquest document ha de tenir el següent contingut:
+  - Relació de tasques del backlog.
+  - Captura de pantalla amb l'estat del Kanban dels divendres 23 i 30 d'octubre, i dimarts 3 de novembre.
+  - Gràfics de resum del projecte.
+  - Enllaç al Kanban creat al Planner. Assegureu-vos que el Kanban és Públic per tal que el professorat pugui accedir-hi.
+
 ## Material de suport
+
+- [Guia creació del Kanban al Planner]()
