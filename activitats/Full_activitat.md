@@ -10,58 +10,56 @@ La durada prevista de l'activitat és x hores a classe.
 
 ### Objectius específics de l'activitat
 
-- Objectiu 1
-- Objectiu 2
-- Objectiu 3
+- Creació del Kanban al Planner pel correcte seguiment del projecte.
 
 ### Competències treballades
 
-a) Competència 1
-b) Competència 2
+j) Organitzar i desenvolupar el treball assignat mantenint unes relacions professionals adequades en l’entorn de treball.
 
 ### Resultats d'aprenentatge i criteris d'avaluació
 
-RAx.
-RAy.
+1713.RA3. Planifica l'execució de les activitats proposades a la solució plantejada, determinant el pla d'intervenció i elaborant la documentació corresponent.
 
 ### Continguts
+
+3.1 Temporitza les seqüències de les activitats.
 
 ### Capacitats clau treballades
 
 - Autonomia
 - Organització del treball
 - Treball en equip
-- Innovació
 - Resolució de problemes
 - Responsabilitat
 - Relació interpersonal
 
 ### Semàfor ús de la IA
 
-; Seleccionar l'opció que correspongui segons el nivell d'ús de la IA permès per a l'activitat.
-
 🔴 Ús No Permès
-
-🟠 Aquesta activitat permet un ús parcial o restringit.
-
-Permès per com a eina de suport en la millora de la redacció dels informes, cerca preliminar d'informació, estructuració d'idees o explicació de conceptes teòrics complexos.
-
-**Condicions**: Cal processar, entendre i validar sempre els resultats rebuts. Està totalment prohibit copiar l'enunciat d'un exercici directament al xat de la IA i enganxar la resposta generada per al lliurament final sense treball propi ni anàlisi crítica.
-
-🟢 Permès totalment.
-
-La IA és una eina co-pilot essencial. Es valora el procés de treball amb ella, però és obligatori un procés de validació posterior (defensa oral, vídeo, auditoria de prompts).
-
-🔵 Ús obligatori
-
-La IA forma part explícita de l’objectiu d’aprenentatge. Has d’utilitzar-la, analitzar-la, comparar-la o auditar-la seguint instruccions concretes.
 
 ## Enunciat de l'activitat
 
-### Requeriments previs
+1. Creeu un de vosaltres el Kanban al Planner.
+   - Crear un plan bàsic.
+   - Tria una plantilla "Plan Simple".
 
-Cal que tingueu un servidor Linux (Ubuntu Server) instal·lat i configurat de l'activitat anterior. Cas que sigui necessari, torneu a desplegar el servidor a partir del fitxer `.OVA` que vau generar.
+2. Un cop creat, a "Comparteix", trieu l'opció nou grup i afegix-hi el teu company de grup. Selecciona visibilitat "Públic".
+
+3. Ves al menú dels tres punts i tria "Detalls del pla". Allà selecciona "Configuració", marca com a "Públic" i desa els canvis.
+
+### Requisits previs
+
+Necessiteu tenir el compte de Microsoft 365 amb el correu d'escola.
+
+### Descripció de l'activitat
 
 ### Què cal lliurar, on i com?
+
+Producte final a entregar:
+
+- Dins la carpeta Tasca1, crea un document anomenat "Kanban.md". Aquest document ha de tenir el següent contingut:
+  - Relació de tasques del backlog.
+  - Captura de pantalla amb l'estat del Kanban dels divendres 23 i 30 d'octubre, i 6 de novembre.
+  - Enllaç al Kanban creat al Planner. Assegureu-vos que el Kanban és Públic per tal que el professorat pugui accedir-hi.
 
 ## Material de suport
