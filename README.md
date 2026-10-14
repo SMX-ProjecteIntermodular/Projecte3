@@ -46,15 +46,15 @@ El lliurament del projecte es farà a través del repositori GitHub. Cada alumne
 
 ## Avaluació del projecte
 
-La nota final del projecte es calcularà amb la següent fórmula:
-
-:exclamation: Cal definir notes
+El conjunt de tasques que s'avaluaran en aquest projectes són les següents:
 
 | Tasques individuals          | Tasques en grup          |
 |--------------------          |----------------          |
 | Tasca 2: Repositori GitHub   | Tasca 1: Seguiment Kanban|
 | Tasca 5: Gemini Notebook     | Tasca 6: Presentació     |
 | Tasca 6: Presentació ind.    |                          |
+
+La nota final del projecte es calcularà amb la següent fórmula:
 
 $$
 \text{Nota final} = 0,25 \cdot \text{Tasca 2} + 0,20 \cdot \text{Tasca 5
