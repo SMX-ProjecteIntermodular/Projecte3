@@ -42,7 +42,9 @@ El projecte culminarà amb una presentació de la proposta de conscienciació. H
 
 ## Lliurament del projecte
 
-El lliurament del projecte es farà a través del repositori GitHub. Cada alumne haurà de tenir el seu repositori en **privat** i afegir com a col·laboradors als professors de projecte.
+Cal penjar el repositori del projecte 3 a la tasca corresponent del Moodle. Assegureu-vos que el repositori sigui **privat** i que els **professors del projecte estiguin afegits com a col·laboradors**.
+
+El repositori ha de contenir les tasques que s'indiquen a l'enunciat de l'activitat. Cada tasca ha d'estar documentada amb un fitxer `Markdown` i amb els fitxers corresponents a cada tasca.
 
 ## Avaluació del projecte
 
