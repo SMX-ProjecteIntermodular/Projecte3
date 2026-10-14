@@ -2,14 +2,12 @@
 
 ## Taula de continguts
 
-- [Projecte 3. Comencem les pràctiques a EverPia](#projecte-3-comencem-les-pràctiques-a-everpia)
-  - [Taula de continguts](#taula-de-continguts)
-  - [Introducció al cas](#introducció-al-cas)
-  - [Tasques a realitzar](#tasques-a-realitzar)
-  - [Lliurament del projecte](#lliurament-del-projecte)
-  - [Avaluació del projecte](#avaluació-del-projecte)
-  - [Organització del treball](#organització-del-treball)
-  - [Durada i temporització](#durada-i-temporització)
+- [Introducció al cas](#introducció-al-cas)
+- [Tasques a realitzar](#tasques-a-realitzar)
+- [Lliurament del projecte](#lliurament-del-projecte)
+- [Avaluació del projecte](#avaluació-del-projecte)
+- [Organització del treball](#organització-del-treball)
+- [Durada i temporització](#durada-i-temporització)
 
 ## Introducció al cas
 
