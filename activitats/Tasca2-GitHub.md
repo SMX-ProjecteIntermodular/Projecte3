@@ -106,11 +106,9 @@ Permès per com a eina de suport en la millora de la redacció dels informes, ce
 
 ### Fase 3: Resolució de conflictes
 
-En un món ideal, treballar amb control de versions seria un procés lineal i sense conflictes. Malauradament, això no sempre és així. En aquesta fase veurem com es poden produir conflictes i com resoldre'ls.
+En aquesta fase, anem a provocar conflictes i veure com es poden resoldre. En aquest projecte veurem l'escenari més senzill, els conflictes els provoquem amb nosaltres mateixos, per no mantenir una bona sincronització entre el repositori local i el repositori remot de GitHub.
 
-Primer de tot, què és un conflicte? Un conflicte es produeix quan un fitxer pateix modificacions en dos llocs diferents, pot ser al repositori local i al repositori remot, a dos repositoris locals (per exemple, l'ordinador de casa i el d'escola), dues branques diferents (no patiu encara que és un tema que veurem més endavant) o també quan dos o més usuaris treballen sobre el mateix repositori. Quan això passa i fem una sincronització, Git no sap quina versió del fitxer és la correcta i ens demana que resolguem el conflicte.
-
-En aquesta fase, anem a provocar conflictes i veure com es poden resoldre. Per fer-ho, heu de seguir els següents passos:
+Per fer-ho, heu de seguir els següents passos:
 
 1. Crea en el repositori local un fitxer anomenat `conflicte.txt` dins de la carpeta `Tasca2` i afegeix-hi el text següent:
 
