@@ -1,4 +1,4 @@
-# Títol de l'activitat
+# Tasca 2: GitHub
 
 ## Presentació de l'activitat
 
@@ -88,7 +88,7 @@ Permès per com a eina de suport en la millora de la redacció dels informes, ce
 
 1. A la carpeta `Tasca2` del vostre repositori creeu un fitxer anomenat `Tasca2-GitHub.md` on documentareu les activitats realitzades durant la sessió. **Tingeu en compte que el nom de l'arxiu ha de ser aquest exacte (respectant les majúscules i minúscules)**.
 
-2. Crear una carpeta `img`dins de la carpeta `Tasca2` on guardareu les captures de pantalla que aneu fent durant l'activitat.
+2. Crear una carpeta `img` dins de la carpeta `Tasca2` on guardareu les captures de pantalla que aneu fent durant l'activitat.
 
 3. Afegiu com a títol principal `Tasca 2: GitHub` i com a seccions les diferents fases de l'activitat.
 
@@ -131,12 +131,12 @@ Per fer-ho, heu de seguir els següents passos:
 3. Ara, des de GitHub, edita el fitxer `conflicte.txt` i afegeix una segona línia amb el text següent:
 
    ```text
-    Aquesta és la versió remota del fitxer.
-    ```
+   Aquesta és la versió remota del fitxer.
+   ```
 
-    Per guardar els canvis, fes clic a `Commit changes`. Escriu un missatge descriptiu per al commit on quedi clar que l'edició s'ha fet des de GitHub, deixa marcada l'opció `Commit directly to the main branch` i fes clic a `Commit changes`.
+   Per guardar els canvis, fes clic a `Commit changes`. Escriu un missatge descriptiu per al commit on quedi clar que l'edició s'ha fet des de GitHub, deixa marcada l'opció `Commit directly to the main branch` i fes clic a `Commit changes`.
 
-4. Observa com ara a Visual Code es mostra que hi ha un canvi per pujar i un canvi per baixar. Si passes el cursos per sobre sense clicar, veuràs que apareix un missatge indicant els commits que hi ha per pujar i per baixar.
+4. Observa com ara a Visual Code es mostra que hi ha un canvi per pujar i un canvi per baixar. Si passes el cursor per sobre sense clicar, veuràs que apareix un missatge indicant els commits que hi ha per pujar i per baixar.
 
 5. Sincronitza el repositori amb GitHub. Com que hi ha un conflicte, apareixerà un missatge indicant que no es pot fer la sincronització i que cal resoldre el conflicte.
 
@@ -148,13 +148,13 @@ Per fer-ho, heu de seguir els següents passos:
    Aquesta és la versió remota del fitxer.
    ```
 
-  Hauràs de fer un commit de solució del conflicte i sincronitzar el repositori amb GitHub.
+   Hauràs de fer un commit de solució del conflicte i sincronitzar el repositori amb GitHub.
 
 Documenta els diferents punts d'aquesta fase amb captures de pantalla i explicacions al fitxer `Tasca2-GitHub.md` dins la secció "Fase 3:Resolució de conflictes", fes un commit i sincronitza el repositori amb GitHub.
 
 ### Què cal lliurar, on i com?
 
-Al final de la sessió heu de penjar el vostre repositori corresponent al projecte 3 a la tasca de Moodle `Tasca 2 - GitHub`. El repositori ha de cumplir els següents requisits:
+Al final de la sessió heu de penjar el vostre repositori corresponent al projecte 3 a la tasca de Moodle `Tasca 2 - GitHub`. El repositori ha de complir els següents requisits:
 
 - Haver-se creat a partir de la plantilla  `projecte3_template`.
 - Ser privat.

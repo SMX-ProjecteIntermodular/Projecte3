@@ -11,7 +11,7 @@
 
 ## Introducció al cas
 
-En aquest tercer projecte intermodular de segon curs comenceu una nova etapa, fer l'estada a empresa de l’empresa EverPia.
+En aquest tercer projecte intermodular de segon curs comenceu una nova etapa, fer l'estada a l’empresa EverPia.
 
 Benvinguts a EverPia, una consultora IT que té com a missió resoldre els reptes tecnològics de clients molt diversos. Acabeu d’incorporar-vos a l’empresa com alumnes en pràctiques i, com a part del vostre procés de formació, haureu de participar en un projecte real. L’objectiu és que pugueu aplicar els coneixements adquirits al llarg del cicle formatiu i desenvolupar competències professionals en un entorn laboral.
 
@@ -27,18 +27,18 @@ Finalment, per posar en pràctica tot el que haureu après, col·laborareu en un
 
 Una petita empresa client d’EverPia vol millorar la manera com el seu personal protegeix els comptes i la informació. Per això, us encarrega preparar una acció de conscienciació sobre la creació i la gestió de contrasenyes segures i l’ús de l’autenticació multifactor (MFA). El repte no és només explicar conceptes tècnics: cal entendre les necessitats del públic, seleccionar informació fiable i comunicar recomanacions clares i útils a persones que potser no tenen coneixements d’informàtica.
 
-Per donar resposta a l’encàrrec, us organitzareu en equips de dues persones i planificareu la feina amb un tauler Kanban. Fareu servir GitHub per documentar el procés i compartir els resultats; practicareu com donar instruccions precises a les eines d’intel·ligència artificial i com aprofitar NotebookLM per treballar amb fonts, generar materials de suport i preparar la presentació. La IA us ajudarà a elaborar esborranys, però l’equip serà responsable de comprovar les fonts, corregir possibles errors i adaptar el contingut al client.
+Per donar resposta a l’encàrrec, us organitzareu en equips de dues persones i planificareu la feina amb un tauler Kanban. Fareu servir GitHub per documentar el procés i compartir els resultats; practicareu com donar instruccions precises a les eines d’intel·ligència artificial i com aprofitar Gemini Notebook per treballar amb fonts, generar materials de suport i preparar la presentació. La IA us ajudarà a elaborar esborranys, però l’equip serà responsable de comprovar les fonts, corregir possibles errors i adaptar el contingut al client.
 
 El projecte culminarà amb una presentació de la proposta de conscienciació. Haureu de defensar les recomanacions amb criteri, explicar-les amb claredat i demostrar que sabeu combinar coneixements tècnics, treball en equip, documentació i comunicació professional.
 
 ## Tasques a realitzar
 
-- Tasca 1. Creació tauler Kanban al projecte.
-- Tasca 2. Ús de GitHub. Creació del repositori.
-- Tasca 3. IA Prompting masterclass.
-- Tasca 4. Ús de Gemini Notebook.
+- Tasca 1. [Creació tauler Kanban al projecte](./activitats/Tasca1-Kanban.md).
+- Tasca 2. [Ús de GitHub. Creació del repositori](./activitats/Tasca2-GitHub.md).
+- Tasca 3. [IA Prompting masterclass](./activitats/Activitat_prompt_engineering.md).
+- Tasca 4. [Ús de Gemini Notebook](./activitats/Activitat_GeminiNotebook.md).
 - Tasca 5. Generació material d'estudi amb Gemini Notebook.
-- Tasca 6. Presentació concienciació ús contrasenyes i MFA.
+- Tasca 6. Presentació conscienciació ús contrasenyes i MFA.
 
 ## Lliurament del projecte
 
@@ -48,7 +48,7 @@ El repositori ha de contenir les tasques que s'indiquen a l'enunciat de l'activi
 
 ## Avaluació del projecte
 
-El conjunt de tasques que s'avaluaran en aquest projectes són les següents:
+El conjunt de tasques que s'avaluaran en aquest projecte són les següents:
 
 | Tasques individuals          | Tasques en grup          |
 |--------------------          |----------------          |
@@ -59,8 +59,7 @@ El conjunt de tasques que s'avaluaran en aquest projectes són les següents:
 La nota final del projecte es calcularà amb la següent fórmula:
 
 $$
-\text{Nota final} = 0,25 \cdot \text{Tasca 2} + 0,20 \cdot \text{Tasca 5
-} + 0,10 \cdot \text{Tasca 6 individual} + 0,20 \cdot \text{Tasca 1} + 0,25 \cdot \text{Tasca 6 grupal}
+\text{Nota final} = 0,25 \cdot \text{Tasca 2} + 0,20 \cdot \text{Tasca 5} + 0,10 \cdot \text{Tasca 6 individual} + 0,20 \cdot \text{Tasca 1} + 0,25 \cdot \text{Tasca 6 grupal}
 $$
 
 ## Organització del treball
@@ -74,7 +73,7 @@ El projecte té una durada de **18 hores**, repartides en 9 sessions de 2 hores.
 | Sessió  | Data       | Contingut                                    |
 |-------- |------      |-----------                                   |
 |1        | 16/10/2026 | Presentació i creació del tauler Kanban.     |
-|2        | 19/10/2026 | Activitat GitHub .                           |
+|2        | 19/10/2026 | Activitat GitHub.                            |
 |3        | 20/10/2026 | Activitat IA Prompting masterclass.          |
 |4        | 23/10/2026 | Activitat Gemini Notebook. Seguiment Kanban. |
 |5        | 26/10/2026 | Activitat Gemini Notebook: material d'estudi.|

@@ -1,10 +1,10 @@
-# NotebookLM: dels apunts i manuals als continguts de la presentació del projecte
+# Gemini Notebook: dels apunts i manuals als continguts de la presentació del projecte
 
 ## Presentació de l'activitat
 
-S'acosta el moment de presentar el Projecte 3 al client d'EverPia. Teniu molta informació repartida: la documentació que heu escrit a GitHub, els apunts dels mòduls, manuals oficials, potser algun vídeo. Convertir tot això en una presentació clara demana temps, i aquí és on entra **NotebookLM**, el quadern d'IA de Google que funciona amb Gemini.
+S'acosta el moment de presentar el Projecte 3 al client d'EverPia. Teniu molta informació repartida: la documentació que heu escrit a GitHub, els apunts dels mòduls, manuals oficials, potser algun vídeo. Convertir tot això en una presentació clara demana temps, i aquí és on entra **Gemini Notebook** (NotebookLM), el quadern d'IA de Google que funciona amb Gemini.
 
-La diferència amb un xat d'IA normal és important: NotebookLM **només treballa amb les fonts que vosaltres hi pugeu** i cada resposta porta **cites** que enllacen amb el fragment exacte d'on surt la informació. Això el fa molt útil per treballar amb apunts i manuals, perquè es pot comprovar d'on ve cada afirmació.
+La diferència amb un xat d'IA normal és important: Gemini Notebook **només treballa amb les fonts que vosaltres hi pugeu** i cada resposta porta **cites** que enllacen amb el fragment exacte d'on surt la informació. Això el fa molt útil per treballar amb apunts i manuals, perquè es pot comprovar d'on ve cada afirmació.
 
 En aquesta activitat creareu el quadern de l'equip, hi afegireu les fonts del projecte, les interrogareu i generareu diversos continguts (informe, mapa mental, resum d'àudio, infografia, diapositives, targetes i qüestionari) que us serviran de base per preparar la presentació. Hi aplicareu els prompts de la biblioteca que vau crear a l'activitat de prompt engineering.
 
@@ -15,7 +15,7 @@ La durada prevista de l'activitat és 2 hores a classe: 30 minuts d'explicació 
 ### Objectius específics de l'activitat
 
 - Entendre què és una IA fonamentada en fonts i en què es diferencia d'un xat d'IA generalista.
-- Crear un quadern a NotebookLM i seleccionar-hi fonts fiables i variades del projecte.
+- Crear un quadern a Gemini Notebook i seleccionar-hi fonts fiables i variades del projecte.
 - Interrogar les fonts i comprovar les respostes a través de les cites.
 - Generar continguts en diversos formats i personalitzar-los amb prompts.
 - Validar els continguts generats i planificar com s'aprofitaran a la presentació del projecte.
@@ -51,7 +51,7 @@ RA5. Transmet informació amb claredat, de manera ordenada i estructurada.
 
 ### Continguts
 
-- IA fonamentada en fonts: què és NotebookLM i quan convé fer-lo servir.
+- IA fonamentada en fonts: què és Gemini Notebook i quan convé fer-lo servir.
 - Parts de l'eina: Fonts, Xat i Studio.
 - Tipus de fonts admeses i criteris per triar-les.
 - El xat amb cites: com es comprova una resposta.
@@ -73,7 +73,7 @@ RA5. Transmet informació amb claredat, de manera ordenada i estructurada.
 
 La IA forma part explícita de l'objectiu d'aprenentatge. Has d'utilitzar-la, analitzar-la, comparar-la o auditar-la seguint instruccions concretes.
 
-**Condicions**: feu servir NotebookLM amb el compte del centre. No hi pugeu documents amb dades personals, contrasenyes ni informació confidencial. Els continguts generats són **material de treball**: la presentació final l'ha de construir i defensar l'equip, i no es pot presentar tal qual cap resum d'àudio, vídeo o joc de diapositives generat per l'eina.
+**Condicions**: feu servir Gemini Notebook amb el compte del centre. No hi pugeu documents amb dades personals, contrasenyes ni informació confidencial. Els continguts generats són **material de treball**: la presentació final l'ha de construir i defensar l'equip, i no es pot presentar tal qual cap resum d'àudio, vídeo o joc de diapositives generat per l'eina.
 
 ## Enunciat de l'activitat
 
@@ -82,15 +82,15 @@ La IA forma part explícita de l'objectiu d'aprenentatge. Has d'utilitzar-la, an
 - Haver fet l'activitat de prompt engineering i tenir la biblioteca de prompts de l'equip.
 - Tenir la documentació del Projecte 3 al repositori de GitHub de l'equip.
 - Tenir els apunts i manuals dels mòduls implicats en format digital (PDF, document de Google o adreça web).
-- Poder accedir a NotebookLM amb el compte del centre.
+- Poder accedir a Gemini Notebook amb el compte del centre.
 
 ### Part 1. Explicació i demostració (30 minuts)
 
-#### 1.1 Què és NotebookLM?
+#### 1.1 Què és Gemini Notebook?
 
 És un quadern de treball amb IA. Vosaltres hi pugeu documents (les **fonts**) i l'eina es converteix en un expert en aquell material: en fa resums, respon preguntes i el transforma en altres formats.
 
-| | Xat d'IA generalista (Gemini, ChatGPT…) | NotebookLM |
+| | Xat d'IA generalista (Gemini, ChatGPT…) | Gemini Notebook |
 | :--- | :--- | :--- |
 | D'on treu la informació | Del seu entrenament i, a vegades, d'internet | De les fonts que hi heu pujat |
 | Cites | No sempre | Sí, cada resposta enllaça amb el fragment de la font |
@@ -141,7 +141,7 @@ Treballeu amb el vostre equip de projecte i aneu omplint el fitxer `solucio.md`.
 
 **Pas 1. Creeu el quadern i afegiu-hi les fonts (15 minuts)**
 
-1. Entreu a [notebooklm.google.com](https://notebooklm.google.com) amb el compte del centre i creeu un quadern anomenat `EverPia - Projecte 3 - [nom de l'equip]`.
+1. Entreu a Gemini Notebook ([notebooklm.google.com](https://notebooklm.google.com)) amb el compte del centre i creeu un quadern anomenat `EverPia - Projecte 3 - [nom de l'equip]`.
 2. Afegiu-hi **com a mínim cinc fonts de tres tipus diferents**:
    - la vostra documentació del projecte (els fitxers `README.md` i `solucio.md` del repositori);
    - apunts del mòdul o mòduls implicats;
@@ -209,7 +209,7 @@ Reviseu amb esperit crític dos dels continguts generats i ompliu la taula. Busq
 
 Decidiu què aprofitareu de cada contingut i qui se n'encarrega.
 
-| Part de la presentació | Contingut de NotebookLM que hi ajuda | Què hi afegirà l'equip | Responsable |
+| Part de la presentació | Contingut de Gemini Notebook que hi ajuda | Què hi afegirà l'equip | Responsable |
 | :--- | :--- | :--- | :--- |
 | Presentació del client i del problema | | | |
 | Solució implantada | | | |
@@ -218,19 +218,19 @@ Decidiu què aprofitareu de cada contingut i qui se n'encarrega.
 
 ### Què cal lliurar, on i com?
 
-**Què**: una carpeta `activitat-notebooklm` amb dos fitxers:
+**Què**: una carpeta `activitat-gemini-notebook` amb dos fitxers:
 
 - `README.md`: presentació breu de l'activitat i enllaç al quadern compartit.
 - `solucio.md`: les taules dels passos 1, 2, 4 i 5, els prompts de personalització del pas 3 amb una captura de cada contingut generat, i una reflexió final de l'equip (5-8 línies): què us ha estat més útil, què no, i en què es diferencia de treballar amb un xat d'IA generalista.
 
-**On**: al repositori de GitHub de l'equip del Projecte 3. El quadern de NotebookLM ha d'estar compartit amb el professorat.
+**On**: al repositori de GitHub de l'equip del Projecte 3. El quadern de Gemini Notebook ha d'estar compartit amb el professorat.
 
 **Com**: en format Markdown. Les captures i el mapa mental exportat han d'estar a la carpeta `/img`. Un lliurament per equip; actualitzeu també la tasca corresponent al tauler Kanban.
 
 ## Material de suport
 
-- [NotebookLM](https://notebooklm.google.com)
-- [Centre d'ajuda de NotebookLM](https://support.google.com/notebooklm)
+- [Gemini Notebook](https://notebooklm.google.com)
+- [Centre d'ajuda de Gemini Notebook](https://support.google.com/notebooklm)
 - [Semàfor d'IA de l'Escola Pia Mataró](https://sites.google.com/mataro.epiaedu.cat/semafor-ia): què vol dir cada nivell d'ús de la IA.
 - Biblioteca de prompts de l'equip (activitat de prompt engineering).
 - [Documentació de Mermaid](https://mermaid.js.org/) per als diagrames en Markdown.
