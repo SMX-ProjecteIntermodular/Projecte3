@@ -38,7 +38,7 @@ El projecte culminarà amb una presentació de la proposta de conscienciació. H
 - Tasca 3. [IA Prompting masterclass](./activitats/Activitat_prompt_engineering.md).
 - Tasca 4. [Ús de Gemini Notebook](./activitats/Activitat_GeminiNotebook.md).
 - Tasca 5. Generació material d'estudi amb Gemini Notebook.
-- Tasca 6. Presentació conscienciació ús contrasenyes i MFA.
+- Tasca 6. [Presentació conscienciació ús contrasenyes](./activitats/Tasca6-Presentacio.md).
 
 ## Lliurament del projecte
 
