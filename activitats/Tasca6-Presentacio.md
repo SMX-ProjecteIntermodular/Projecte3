@@ -2,11 +2,11 @@
 
 ## Presentació de l'activitat
 
-El vostre tutor a EverPia us vol començar a donar responsabilitats, per tal que conegueu de primera mà com és treballar en un entorn professional. Per això, us ha demanat que prepareu una presentació sobre la gestió segura de contrasenyes per un client de la consultora, "Digital World Art", una petita empresa de disseny gràfic i art digital. Aquest client ha patit un cibertatac que ha afectat el seu funcionament. Per aquest motiu, es va posar en mans d'EverPia, els consultors de la qual van detectar que el problema va ser ús de contrasenyes febles i reutilitzades en diversos serveis. Per això, la proposta de la consultora serà que el client implementi un gestor de contrasenyes per protegir els comptes i la informació de l'empresa. Aquí entreu vosaltres, sereu els encarregats de preparar la presentació per al client, que ha de ser clara, entenedora i convincent. La presentació s'ha de centrar en la necessitat d'utilitzar un gestor de contrasenyes i en els avantatges que ofereix respecte a altres alternatives.
+El vostre tutor a EverPia us vol començar a donar responsabilitats, per tal que conegueu de primera mà com és treballar en un entorn professional. Per això, us ha demanat que prepareu una presentació sobre la gestió segura de contrasenyes per un client de la consultora, "Digital World Art", una petita empresa de disseny gràfic i art digital. Aquest client ha patit un cibertatac que ha afectat el seu funcionament. Per aquest motiu, es va posar en mans d'EverPia, els consultors de la qual van detectar que el problema va ser ús de contrasenyes febles i reutilitzades en diversos serveis. Per això, la proposta de la consultora serà que el client implementi un gestor de contrasenyes per protegir els comptes i la informació de l'empresa, així com introduir el doble factor d'autenticació. Aquí entreu vosaltres, sereu els encarregats de preparar la presentació per al client, que ha de ser clara, entenedora i convincent. La presentació s'ha de centrar en la necessitat d'utilitzar un gestor de contrasenyes i en els avantatges que ofereix respecte a altres alternatives.
 
 ### Durada de l'activitat
 
-La durada prevista de l'activitat és 4  hores a classe per realitzar la part tècnica i la preparació de la presentació final de 15 minuts per grup.
+La durada prevista de l'activitat és 2  hores a la preparació de la presentació final de 15 minuts per grup.
 
 ### Objectius específics de l'activitat
 
@@ -21,11 +21,6 @@ l) Assessorar i assistir al client, canalitzant a un nivell superior els supòsi
 n) Mantenir un esperit constant d’innovació i actualització en l’àmbit del sector informàtic.
 
 ### Resultats d'aprenentatge i criteris d'avaluació
-
-0226.RA1. Aplica mesures de seguretat passiva en sistemes informàtics descrivint característiques d'entorns i relacionant-les amb les seves necessitats.
-
-- 1.1 Valora la importància de mantenir la informació segura.
-- 1.8 Valora la importància d'establir una política de contrasenyes.
 
 1713.RA5. Transmet informació amb claredat, de manera ordenada i estructurada.
 
@@ -59,42 +54,30 @@ Permès per com a eina de suport en la millora de la redacció dels informes, ce
 
 ### Fase 1: Anàlisi i Justificació
 
-Heu de redactar un informe que justifiqui tècnicament la decisió de la Direcció i comparin les opcions. Aquest informe ha d'incloure:
+A partir del treball realitzat previ estudiant tant els gestors de contrasenyes com el doble factor d'autenticació, heu de consensuar quina proposta fareu al client i justificar la vostra elecció, des del punt de vista d'eines que recomanareu.
 
-1. Introducció i Justificació: -Explicació de perquè les contrasenyes febles o reutilitzades són un risc crític per a l'empresa (atac de diccionari, credential stuffing, etc.). -La funció crucial d'un gestor de contrasenyes per mitigar aquests riscos.
+Creareu una guia tècnica per tal que el personal de "Digital World Art" pugui utilitzar correctament el gestor de contrasenyes escollit i configurar el doble factor d'autenticació. 
 
-2. Comparativa Tècnica: Realitzeu una taula comparativa detallada entre:
+Aquesta guia ha de ser clara i basada en captures de pantalla i instruccions pas a pas.
 
-   -Bitwarden (Alternativa Online / Núvol): Analitzeu la sincronització, el model de seguretat (xifratge end-to-end), la facilitat d'accés des de múltiples dispositius i el cost/model freemium.
-   -KeePassX / KeePassXC (Alternativa Offline / Escriptori): Analitzeu l'emmagatzematge local de l'arxiu (KDBX), la independència del núvol, el model open source i la portabilitat de l'arxiu.
+**Important**: Hauríeu d'aprofitar la feina prèvia feta amb anterioritat.
 
-3. Avantatges i Inconvenients: Resumiu els principals pros i contres de cada model (online vs. offline) des del punt de vista de seguretat, usabilitat i continuïtat del negoci.
+### Fase 2: Elaboració de la presentació
 
-4. Recomanació: Concloeu l'informe escollint l'eina que considereu més adequada per al personal tècnic de l'empresa i justifiqueu la vostra elecció.
+Elaborar una presentació de 15 minuts per al client, que ha de ser clara, entenedora i convincent. La presentació s'ha de centrar en la necessitat d'utilitzar un gestor de contrasenyes i el doble factor d'autenticació.
 
-### Fase 2: Guia d'Ús Tècnica (Manual Operatiu)
+Presenteu les eines que recomaneu al cliet i algunes captures de pantalla per explicar de forma breu el procés d'ús. 
 
-Utilitzant l'eina que heu seleccionat a la Fase 1 (Bitwarden, KeePassX, o similar), heu de crear una Guia d'Ús per a l'Equip Tècnic. Aquesta guia ha de ser clara i basada en captures de pantalla i instruccions pas a pas.
-
-La guia ha de cobrir els següents punts obligatoris:
-
-1. Instal·lació i Configuració Inicial: Descàrrega, instal·lació i creació de la BBDD principal o compte mestre.
-2. Generació de Contrasenyes Segures: Explicació de com utilitzar el generador de contrasenyes de l'eina (paràmetres, longitud, caràcters especials).
-3. Exemples d'Ús i Emplenament Automàtic:
-   - Com desar una credencial d'un compte de correu electrònic.
-   - Com desar una credencial d'una aplicació o servei web.
-   - Com fer servir l’extensió del navegador per emplenar automàticament les dades.
-4. Gestió de Còpies de Seguretat (Backup):
-   - Explicació detallada de com fer una còpia de seguretat de l'arxiu de contrasenyes (KDBX en KeePass o Exportació en Bitwarden).
-   - Recomanació de la millor pràctica per emmagatzemar aquesta còpia de seguretat de forma segura (clau USB xifrada o emmagatzematge xifrat al núvol).
+La presentació ha de ser visualment atractiva i ha de contenir informació clara i concisa.
 
 ### Entorn de treball
 
-Per usar la versió instal·lable del gestor de contrasenyes es necessita una màquina virtual Windows 11. En el cas de KeePassXC existeix una versió portable que es pot executar sense instal·lació, però es recomana la versió instal·lable per a una millor experiència d'usuari.
+Per a fer la presentació, podeu utilitzar qualsevol eina de presentació que us sigui còmoda, com PowerPoint, Google Slides o Canva. Assegureu-vos que la presentació sigui visualment atractiva i que contingui informació clara i concisa.
 
 ### Què cal lliurar, on i com?
 
-Amb el contingut de l'informe i la guia d'ús, heu de preparar una presentació de 15 minuts per defensar les vostres recomanacions davant del client. La presentació ha de ser clara, entenedora i convincent, amb un enfocament en la necessitat d'utilitzar un gestor de contrasenyes i els avantatges que ofereix respecte a altres alternatives.
+- Guia tècnica en format PDF.
+- Enllaç a la presentació en línia o arxiu de presentació (PowerPoint, Google Slides, Canva, etc.) en format PDF.
 
 ## Enllaços d'interès
 
