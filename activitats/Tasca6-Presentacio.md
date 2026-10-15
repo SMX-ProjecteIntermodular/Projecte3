@@ -56,7 +56,7 @@ Permès per com a eina de suport en la millora de la redacció dels informes, ce
 
 A partir del treball realitzat previ estudiant tant els gestors de contrasenyes com el doble factor d'autenticació, heu de consensuar quina proposta fareu al client i justificar la vostra elecció, des del punt de vista d'eines que recomanareu.
 
-Creareu una guia tècnica per tal que el personal de "Digital World Art" pugui utilitzar correctament el gestor de contrasenyes escollit i configurar el doble factor d'autenticació. 
+Creareu una guia tècnica per tal que el personal de "Digital World Art" pugui utilitzar correctament el gestor de contrasenyes escollit i configurar el doble factor d'autenticació.
 
 Aquesta guia ha de ser clara i basada en captures de pantalla i instruccions pas a pas.
 
@@ -66,13 +66,13 @@ Aquesta guia ha de ser clara i basada en captures de pantalla i instruccions pas
 
 Elaborar una presentació de 15 minuts per al client, que ha de ser clara, entenedora i convincent. La presentació s'ha de centrar en la necessitat d'utilitzar un gestor de contrasenyes i el doble factor d'autenticació.
 
-Presenteu les eines que recomaneu al cliet i algunes captures de pantalla per explicar de forma breu el procés d'ús. 
+Presenteu les eines que recomaneu al cliet i algunes captures de pantalla per explicar de forma breu el procés d'ús.
 
-La presentació ha de ser visualment atractiva i ha de contenir informació clara i concisa.
+La presentació ha de ser visualment atractiva i ha de contenir informació clara i entendora.
 
 ### Entorn de treball
 
-Per a fer la presentació, podeu utilitzar qualsevol eina de presentació que us sigui còmoda, com PowerPoint, Google Slides o Canva. Assegureu-vos que la presentació sigui visualment atractiva i que contingui informació clara i concisa.
+Per a fer la presentació, podeu utilitzar qualsevol eina de presentació que us sigui còmoda, com PowerPoint, Google Slides o Canva. Assegureu-vos que cas de eina online, l'enllaç sigui accessible en mode lectura per a tothom. En cas d'utilitzar una eina offline, lliureu l'arxiu de presentació.
 
 ### Què cal lliurar, on i com?
 
