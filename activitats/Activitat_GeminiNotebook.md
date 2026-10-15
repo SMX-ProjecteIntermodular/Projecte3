@@ -32,19 +32,17 @@ q) Complir amb els objectius de la producció, col·laborant amb l'equip de treb
 
 ### Resultats d'aprenentatge i criteris d'avaluació
 
-**1713 Projecte intermodular**
-
-RA2. Planteja solucions a les necessitats del sector tenint en compte la seva viabilitat, els costos associats i elaborant un petit projecte.
+1713RA2. Planteja solucions a les necessitats del sector tenint en compte la seva viabilitat, els costos associats i elaborant un petit projecte.
 
 - 2.3 Obté la informació relativa a les solucions plantejades.
 - 2.9 Defineix i elabora la documentació per al seu disseny.
 - 2.11 Presenta en públic les idees més rellevants dels projectes proposts.
 
-RA4. Realitza el seguiment de l'execució de les activitats plantejades, verificant que es compleix amb la planificació.
+1713RA4. Realitza el seguiment de l'execució de les activitats plantejades, verificant que es compleix amb la planificació.
 
 - 4.2 Verifica la qualitat dels resultats de les activitats.
 
-RA5. Transmet informació amb claredat, de manera ordenada i estructurada.
+1713RA5. Transmet informació amb claredat, de manera ordenada i estructurada.
 
 - 5.1 Manté una actitud ordenada i metòdica en la transmissió de la informació.
 - 5.3 Transmet informació entre els membres del grup utilitzant mitjans informàtics.
