@@ -6,7 +6,7 @@ El vostre tutor a EverPia us vol començar a donar responsabilitats, per tal que
 
 ### Durada de l'activitat
 
-La durada prevista de l'activitat és 2 hores a classe per realitzar la part tècnica, més2 hores a classe de preparació més la presentació final de 15 minuts per grup.
+La durada prevista de l'activitat és 4  hores a classe per realitzar la part tècnica i la preparació de la presentació final de 15 minuts per grup.
 
 ### Objectius específics de l'activitat
 
