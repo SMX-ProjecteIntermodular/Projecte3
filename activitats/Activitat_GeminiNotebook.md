@@ -1,4 +1,5 @@
-# Gemini Notebook: dels apunts i manuals als continguts de la presentació del projecte
+# Activitat 4:
+## Gemini Notebook: dels apunts i manuals als continguts de la presentació del projecte
 
 ## Presentació de l'activitat
 
