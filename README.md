@@ -19,7 +19,9 @@ L’origen d’EverPia es remunta a uns anys enrere, quan sis professors van dec
 
 Junts van fundar la consultora EverPia, un nom que uneix “ever” (sempre) amb “Pia”, en homenatge a l’esperit educatiu i a la visió de treballar per un futur millor. La seva llegenda comença en una petita sala plena de cables i ordinadors antics, on van jurar: “Mai treballarem sols. Cada projecte serà una oportunitat per créixer junts.”
 
-![Logo EverPia](./img/logoEverPia.png)
+<p align="center">
+  <img src="img/logoEverPia.png" alt="Logo EverPia">
+</p>
 
 I què fareu? Treballareu mitjançant control de versions, usant git i GitHub, i aplicareu tècniques de gestió de projectes com Kanban. A més, us introduireu en l’ús professional de la intel·ligència artificial (IA) per millorar la vostra productivitat i generar contingut de qualitat.
 
