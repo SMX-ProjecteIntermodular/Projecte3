@@ -1,4 +1,4 @@
-# Prompt engineering i metaprompts: aprendre a demanar bé a la IA
+# Tasca 3: Prompt engineering i metaprompts: aprendre a demanar bé a la IA
 
 ## Presentació de l'activitat
 
