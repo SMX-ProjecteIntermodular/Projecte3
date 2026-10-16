@@ -1,4 +1,4 @@
-# Tasca 6: Presentació gestió segura de contrasenyes
+# Tasca 6: Gestió segura de contrasenyes
 
 ## Presentació de l'activitat
 

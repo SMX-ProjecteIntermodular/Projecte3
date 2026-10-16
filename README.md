@@ -38,7 +38,7 @@ El projecte culminarà amb una presentació de la proposta de conscienciació. H
 - Tasca 3. [IA Prompting masterclass](./activitats/Activitat_prompt_engineering.md).
 - Tasca 4. [Ús de Gemini Notebook](./activitats/Activitat_GeminiNotebook.md).
 - Tasca 5. Generació material d'estudi amb Gemini Notebook.
-- Tasca 6. [Presentació conscienciació gestió de contrasenyes](./activitats/Tasca6-Presentacio.md).
+- Tasca 6. [Gestió segura de contrasenyes](./activitats/Tasca6-Presentacio.md).
 
 ## Lliurament del projecte
 
@@ -50,11 +50,11 @@ El repositori ha de contenir les tasques que s'indiquen a l'enunciat de l'activi
 
 El conjunt de tasques que s'avaluaran en aquest projecte són les següents:
 
-| Tasques individuals          | Tasques en grup          |
-|--------------------          |----------------          |
-| Tasca 2: Repositori GitHub   | Tasca 1: Seguiment Kanban|
-| Tasca 5: Gemini Notebook     | Tasca 6: Presentació     |
-| Tasca 6: Presentació ind.    |                          |
+| Tasques individuals          | Tasques en grup                            |
+|--------------------          |----------------                            |
+| Tasca 2: Repositori GitHub   | Tasca 1: Seguiment Kanban                  |
+| Tasca 5: Gemini Notebook     | Tasca 6: Gestió segura de contrasenyes     |
+| Tasca 6: Presentació ind.    |                                            |
 
 La nota final del projecte es calcularà amb la següent fórmula:
 
