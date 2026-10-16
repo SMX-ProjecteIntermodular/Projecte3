@@ -17,7 +17,7 @@ Benvinguts a EverPia, una consultora IT que té com a missió resoldre els repte
 
 L’origen d’EverPia es remunta a uns anys enrere, quan sis professors van decidir unir les seves forces. Tots ells compartien una passió: la informàtica i l’educació. Però també una convicció profunda: la tecnologia no té sentit si no ajuda a les persones i a les organitzacions a créixer.
 
-Junts van fundar la consultora EverPia, un nom que uneix “ever” (sempre) amb “Pia”, en homenatge a l’esperit educatiu i a la visió de treballar per un futur millor. La seva llegenda comença en una petita sala plena de cables i ordinadors antics, on van jurar: “Mai treballarem sols. Cada projecte serà una oportunitat per créixer junts.”
+Junts van fundar la consultora EverPia, un nom que uneix “ever” (sempre) amb “Pia”, en homenatge a l’esperit educatiu i a la visió de treballar per un futur millor. La seva llegenda comença en una petita sala plena de cables i ordinadors antics, on van jurar: *“Mai treballarem sols. Cada projecte serà una oportunitat per créixer junts.”*
 
 <p align="center">
   <img src="img/logoEverPia.png" alt="Logo EverPia">
