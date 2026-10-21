@@ -58,16 +58,17 @@ Permès per com a eina de suport en la millora de la redacció dels informes, ce
 
 ### Fase 1: Creació del repositori i primeres configuracions
 
-1. El primer pas serà crear un repositori a GitHub a partir de la plantilla `projecte3_template`. Aquest repositori serà el que utilitzareu per documentar les activitats realitzades durant el projecte 3. És molt important que marqueu el projecte com **privat**.
+1. El primer pas serà crear un repositori a GitHub a partir de la plantilla [projecte3_template](https://github.com/smx-projecteintermodular/projecte3_template). Aquest repositori serà el que utilitzareu per documentar les activitats realitzades durant el projecte 3. És molt important que marqueu el projecte com **privat**.
 
 2. Afegiu com a col·laboradors del repositori als professors de projecte. Els usuaris dels professors són els següents:
 
+   <!--Organitzar per classes? -->
    - Carlos Alonso `carlesalonso`
    - Isabel Bosch `iboschmi`
    - Carles Fugarolas `cfugarolas`
    - Cristian González `CR1stiancom`
 
-    A la guia 4 del material de suport trobareu les instruccions per realitzar aquestes dues accions.
+    A la [guia 4](https://github.com/SMX-ProjecteIntermodular/Guies/blob/main/git-github/04-crear-repositoris.md) del material de suport trobareu les instruccions per realitzar aquestes dues accions.
 
 3. Creeu una carpeta anomenada `projectes` dins del directori `Documents` i cloneu a dins el repositori creat anteriorment usant Visual Code.
 
