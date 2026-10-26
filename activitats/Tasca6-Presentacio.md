@@ -64,19 +64,18 @@ Aquesta guia ha de ser clara i basada en captures de pantalla i instruccions pas
 
 ### Fase 2: Elaboració de la presentació
 
-Elaborar una presentació de 15 minuts per al client, que ha de ser clara, entenedora i convincent. La presentació s'ha de centrar en la necessitat d'utilitzar un gestor de contrasenyes i el doble factor d'autenticació.
-
-Presenteu les eines que recomaneu al cliet i algunes captures de pantalla per explicar de forma breu el procés d'ús.
+Elaborar una presentació de 15 minuts per al client, que ha de ser clara, entenedora i convincent. La presentació s'ha de centrar en primer lloca, a la necessitat d'utilitzar un gestor de contrasenyes i el doble factor d'autenticació com a mecanismes de protecció dels comptes i la informació de l'empresa. En segon lloc, ha de mostrar d'una forma visual el process d'ús del gestor de contrasenyes i del doble factor d'autenticació, amb captures de pantalla i instruccions pas a pas, presentant les eines que recomaneu al client i algunes captures de pantalla per explicar de forma breu el procés d'ús.
 
 La presentació ha de ser visualment atractiva i ha de contenir informació clara i entendora.
 
 ### Entorn de treball
 
+La guia tècnica es lliura en format Markdown amb el nom de `guia.md` i s'ha de penjar al repositori del projecte. Cada membre del grup gestionarà la seva pròpia còpia del repositori, però el contingut de la guia tècnica serà el mateix per a tots dos membres del grup.
+
 Per a fer la presentació, podeu utilitzar qualsevol eina de presentació que us sigui còmoda, com PowerPoint, Google Slides o Canva. Assegureu-vos que cas de eina online, l'enllaç sigui accessible en mode lectura per a tothom. En cas d'utilitzar una eina offline, lliureu l'arxiu de presentació.
 
 ### Què cal lliurar, on i com?
 
-- Guia tècnica en format PDF.
 - Enllaç a la presentació en línia o arxiu de presentació (PowerPoint, Google Slides, Canva, etc.) en format PDF.
 
 ## Enllaços d'interès

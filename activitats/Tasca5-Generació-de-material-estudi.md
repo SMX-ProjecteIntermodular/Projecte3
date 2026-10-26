@@ -682,3 +682,7 @@ Es valorarà tant la qualitat dels materials com la seva organització i facilit
 **Context del projecte**
 
 - [Projecte 3 - Repositori de GitHub](https://github.com/SMX-ProjecteIntermodular/Projecte3/tree/main)
+
+
+**resum-diagrama**
+![resum-diagrama](img/Enunciat-Visual 1.png)

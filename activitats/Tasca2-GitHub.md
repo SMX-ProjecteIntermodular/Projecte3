@@ -58,16 +58,17 @@ Permès per com a eina de suport en la millora de la redacció dels informes, ce
 
 ### Fase 1: Creació del repositori i primeres configuracions
 
-1. El primer pas serà crear un repositori a GitHub a partir de la plantilla `projecte3_template`. Aquest repositori serà el que utilitzareu per documentar les activitats realitzades durant el projecte 3. És molt important que marqueu el projecte com **privat**.
+1. El primer pas serà crear un repositori a GitHub a partir de la plantilla [projecte3_template](https://github.com/smx-projecteintermodular/projecte3_template). Aquest repositori serà el que utilitzareu per documentar les activitats realitzades durant el projecte 3. És molt important que marqueu el projecte com **privat**.
 
 2. Afegiu com a col·laboradors del repositori als professors de projecte. Els usuaris dels professors són els següents:
 
+   <!--Organitzar per classes? -->
    - Carlos Alonso `carlesalonso`
    - Isabel Bosch `iboschmi`
    - Carles Fugarolas `cfugarolas`
    - Cristian González `CR1stiancom`
 
-    A la guia 4 del material de suport trobareu les instruccions per realitzar aquestes dues accions.
+    A la [guia 4](https://github.com/SMX-ProjecteIntermodular/Guies/blob/main/git-github/04-crear-repositoris.md) del material de suport trobareu les instruccions per realitzar aquestes dues accions.
 
 3. Creeu una carpeta anomenada `projectes` dins del directori `Documents` i cloneu a dins el repositori creat anteriorment usant Visual Code.
 
@@ -86,9 +87,9 @@ Permès per com a eina de suport en la millora de la redacció dels informes, ce
 
 ### Fase 2: Documentació de l'activitat
 
-1. A la carpeta `Tasca2` del vostre repositori creeu un fitxer anomenat `Tasca2-GitHub.md` on documentareu les activitats realitzades durant la sessió. **Tingeu en compte que el nom de l'arxiu ha de ser aquest exacte (respectant les majúscules i minúscules)**.
+1. A la carpeta `Tasca02` del vostre repositori creeu un fitxer anomenat `Tasca2-GitHub.md` on documentareu les activitats realitzades durant la sessió. **Tingeu en compte que el nom de l'arxiu ha de ser aquest exacte (respectant les majúscules i minúscules)**.
 
-2. Crear una carpeta `img` dins de la carpeta `Tasca2` on guardareu les captures de pantalla que aneu fent durant l'activitat.
+2. Crear una carpeta `img` dins de la carpeta `Tasca02` on guardareu les captures de pantalla que aneu fent durant l'activitat.
 
 3. Afegiu com a títol principal `Tasca 2: GitHub` i com a seccions les diferents fases de l'activitat.
 
@@ -112,7 +113,7 @@ En aquesta fase, anem a provocar conflictes i veure com es poden resoldre. En aq
 
 Per fer-ho, heu de seguir els següents passos:
 
-1. Crea en el repositori local un fitxer anomenat `conflicte.txt` dins de la carpeta `Tasca2` i afegeix-hi el text següent:
+1. Crea en el repositori local un fitxer anomenat `conflicte.txt` dins de la carpeta `Tasca02` i afegeix-hi el text següent:
 
    ```text
    Aquest és un fitxer de prova per provocar conflictes.
@@ -160,7 +161,7 @@ Al final de la sessió heu de penjar el vostre repositori corresponent al projec
 - Ser privat.
 - Haver afegit com a col·laboradors als professors de projecte.
 - Tenir al `README.md` les dades corresponents al vostre nom i el del company de grup.
-- Incloure a la carpeta `Tasca2` un fitxer `Tasca2-GitHub.md` amb la documentació de l'activitat realitzada.
+- Incloure a la carpeta `Tasca02` un fitxer `Tasca2-GitHub.md` amb la documentació de l'activitat realitzada.
 
 **És obligatori** que l'edició es realitzi en local amb l'editor (Visual Code) i que es sincronitzi amb el vostre repositori de GitHub. No es permet l'edició directa al repositori de GitHub.
 

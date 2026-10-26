@@ -61,7 +61,7 @@ Necessiteu tenir el compte de Microsoft 365 amb el correu d'escola.
 
 6. Cada dia de projecte, actualitzeu l'estat de les tasques al Kanban segons el que hàgiu fet. És molt important que assigneu la tasca a un de vosaltres dos.
 
-7. Cada divendres, feu una captura de pantalla de l'estat del Kanban i afegiu-la al document "Kanban.md".
+7. Cada dia dels indicats a la secció següent, feu una captura de pantalla de l'estat del Kanban i afegiu-la al document "Kanban.md".
 
 8. Al final del projecte, completeu el document "Kanban.md" amb els gràfics que del projecteu i l'enllaç al Kanban creat al Planner. No feu una captura global, sinó de cada gràfic per separat per tal que sigui molt més visible.
 

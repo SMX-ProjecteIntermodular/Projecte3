@@ -20,7 +20,7 @@ L’origen d’EverPia es remunta a uns anys enrere, quan sis professors van dec
 Junts van fundar la consultora EverPia, un nom que uneix “ever” (sempre) amb “Pia”, en homenatge a l’esperit educatiu i a la visió de treballar per un futur millor. La seva llegenda comença en una petita sala plena de cables i ordinadors antics, on van jurar: *“Mai treballarem sols. Cada projecte serà una oportunitat per créixer junts.”*
 
 <p align="center">
-  <img src="img/logoEverPia.png" alt="Logo EverPia">
+  <img src="./img/logoEverPia.png" alt="Logo EverPia" width="320"/>
 </p>
 
 I què fareu? Treballareu mitjançant control de versions, usant git i GitHub, i aplicareu tècniques de gestió de projectes com Kanban. A més, us introduireu en l’ús professional de la intel·ligència artificial (IA) per millorar la vostra productivitat i generar contingut de qualitat.
@@ -37,6 +37,9 @@ El projecte culminarà amb una presentació de la proposta de conscienciació. H
 
 - Tasca 1. [Creació tauler Kanban al projecte](./activitats/Tasca1-Kanban.md).
 - Tasca 2. [Ús de GitHub. Creació del repositori](./activitats/Tasca2-GitHub.md).
+- Tasca 3. [IA Prompting masterclass](./activitats/Tasca3-Activitat_prompt_engineering.md).
+- Tasca 4. [Ús de Gemini Notebook](./activitats/Tasca4-Activitat_GeminiNotebook.md).
+- Tasca 5. [Generació material d'estudi amb Gemini Notebook](./activitats/Tasca5-Generacio_material_estudi.md).
 - Tasca 3. [IA Prompting masterclass](./activitats/Activitat_prompt_engineering.md).
 - Tasca 4. [Ús de Gemini Notebook](./activitats/Activitat_GeminiNotebook.md).
 - Tasca 5. [Generació material d'estudi amb Gemini Notebook](./activitats/Tasca5-Generació-de-material-estudi.md).
