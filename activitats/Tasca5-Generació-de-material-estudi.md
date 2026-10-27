@@ -18,6 +18,8 @@ Finalment, haureu d'organitzar i publicar els recursos al vostre repositori de G
 
 **El repte no consisteix únicament a generar continguts amb intel·ligència artificial, sinó a crear un espai de formació digital complet, ben organitzat i amb informació contrastada.**
 
+Aquesta tasca és individual.
+
 ### Durada de l'activitat
 
 La durada prevista de l'activitat és de **4 hores a classe, distribuïdes en dues sessions de 2 hores**.
