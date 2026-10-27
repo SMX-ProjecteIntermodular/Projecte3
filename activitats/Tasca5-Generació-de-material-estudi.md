@@ -631,12 +631,12 @@ Si no heu pogut generar algun material per una limitació tècnica o del vostre 
 
 **L'activitat és individual.**
 
-Haureu de lliurar a Moodle **un únic enllaç a la carpeta `tasca5-material-estudi` del vostre repositori de GitHub**.
+Haureu de lliurar a Moodle **un únic enllaç a la carpeta `activitat05` del vostre repositori de GitHub**.
 
 La carpeta ha de contenir:
 
 1. **`README.md`:** pàgina principal que presenta el kit d'estudi, incorpora l'enllaç al quadern de Gemini Notebook i organitza l'accés als nou materials.
-2. **`revisio-ia.md`:** document de revisió crítica de tres recursos generats.
+2. **`solucio05.md`:** document de revisió crítica de tres recursos generats.
 3. **`materials/`:** carpeta amb els recursos exportats i els documents de suport.
 4. **`img/`:** carpeta amb les imatges i previsualitzacions generades.
 
