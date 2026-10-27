@@ -217,7 +217,7 @@ Decidiu què aprofitareu de cada contingut i qui se n'encarrega.
 
 ### Què cal lliurar, on i com?
 
-**Què**: una carpeta `activitat4` amb dos fitxers:
+**Què**: una carpeta `activitat04` amb dos fitxers:
 
 - `README.md`: presentació breu de l'activitat i enllaç al quadern compartit (resum del enunciat fet amb IA)
 - `solucio.md`: les taules dels passos 1, 2, 4 i 5, els prompts de personalització del pas 3 amb una captura de cada contingut generat, i una reflexió final de l'equip (5-8 línies): què us ha estat més útil, què no, i en què es diferencia de treballar amb un xat d'IA generalista. TOT EN FORMAT MD i enllaços als elements.
