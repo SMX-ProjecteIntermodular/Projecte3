@@ -38,10 +38,6 @@ El projecte culminarà amb una presentació de la proposta de conscienciació. H
 - Tasca 1. [Creació tauler Kanban al projecte](./activitats/Tasca1-Kanban.md).
 - Tasca 2. [Ús de GitHub. Creació del repositori](./activitats/Tasca2-GitHub.md).
 - Tasca 3. [IA Prompting masterclass](./activitats/Tasca3-Activitat_prompt_engineering.md).
-- Tasca 4. [Ús de Gemini Notebook](./activitats/Tasca4-Activitat_GeminiNotebook.md).
-- Tasca 5. [Generació material d'estudi amb Gemini Notebook](./activitats/Tasca5-Generacio_material_estudi.md).
-- Tasca 3. [IA Prompting masterclass](./activitats/Activitat_prompt_engineering.md).
-- Tasca 4. [Ús de Gemini Notebook](./activitats/Activitat_GeminiNotebook.md).
 - Tasca 5. [Generació material d'estudi amb Gemini Notebook](./activitats/Tasca5-Generació-de-material-estudi.md).
 - Tasca 6. [Gestió segura de contrasenyes](./activitats/Tasca6-Presentacio.md).
 
