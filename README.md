@@ -80,6 +80,6 @@ El projecte té una durada de **18 hores**, repartides en 9 sessions de 2 hores.
 |4        | 23/10/2026 | Activitat Gemini Notebook. Seguiment Kanban. |
 |5        | 26/10/2026 | Activitat Gemini Notebook: material d'estudi.|
 |6        | 27/10/2026 | Activitat Gemini Notebook: material d'estudi.|
-|7        | 30/10/2026 | Gestió repositori. Seguiment Kanban.         |
+~~|7        | 30/10/2026 | Gestió repositori. Seguiment Kanban.            |~~
 |8        | 03/11/2026 | Preparar presentació Seguretat Informàtica.  |
 |9        | 06/11/2026 | Presentacions Seguretat Informàtica.         |
