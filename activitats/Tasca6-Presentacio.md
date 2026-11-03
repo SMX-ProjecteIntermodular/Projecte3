@@ -93,3 +93,5 @@ Per a fer la presentació, podeu utilitzar qualsevol eina de presentació que us
 6. [INCIBE: Autenticación multifactor (MFA)](https://www.incibe.es/ciudadania/tematicas/contrasenas-seguras/autenticacion-de-dos-factores)
 
 7. Material propi.[Autenticación multifactor (MFA)](https://github.com/SMX-0226SI/NF1AA3-MFA)
+
+8. Serena Keyitan on GitHub [Awesome NotebookLM Prompts](https://github.com/serenakeyitan/awesome-notebookLM-prompts)
