@@ -56,7 +56,7 @@ Permès per com a eina de suport en la millora de la redacció dels informes, ce
 
 A partir del treball realitzat previ estudiant tant els gestors de contrasenyes com el doble factor d'autenticació, heu de consensuar quina proposta fareu al client i justificar la vostra elecció, des del punt de vista d'eines que recomanareu.
 
-Creareu una guia tècnica per tal que el personal de "Digital World Art" pugui utilitzar correctament el gestor de contrasenyes escollit i configurar el doble factor d'autenticació.
+Creareu una guia d'ajuda a l'usuari, per tal que el personal de "Digital World Art" pugui utilitzar correctament el gestor de contrasenyes escollit i configurar el doble factor d'autenticació.
 
 Aquesta guia ha de ser clara i basada en captures de pantalla i instruccions pas a pas.
 
