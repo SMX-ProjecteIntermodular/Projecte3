@@ -76,7 +76,9 @@ Per a fer la presentació, podeu utilitzar qualsevol eina de presentació que us
 
 ### Què cal lliurar, on i com?
 
-- Enllaç a la presentació en línia o arxiu de presentació (PowerPoint, Google Slides, Canva, etc.) en format PDF.
+- Arxiu `README.md`amb una descripció de la tasca i al final del document l'enllaç a la presentació.
+- Guia tècnica en format MarkDown a la carpeta `tasca06`.
+- Enllaç a la presentació en línia o arxiu de presentació (PowerPoint, Google Slides, Canva, etc.) al README.md de la tasca.
 
 ## Enllaços d'interès
 
