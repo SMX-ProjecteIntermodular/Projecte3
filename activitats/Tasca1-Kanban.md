@@ -63,7 +63,9 @@ Necessiteu tenir el compte de Microsoft 365 amb el correu d'escola.
 
 7. Cada dia dels indicats a la secció següent, feu una captura de pantalla de l'estat del Kanban i afegiu-la al document "Kanban.md".
 
-8. Al final del projecte, completeu el document "Kanban.md" amb els gràfics que del projecteu i l'enllaç al Kanban creat al Planner. No feu una captura global, sinó de cada gràfic per separat per tal que sigui molt més visible.
+8. Al final del projecte, completeu el document "Kanban.md" amb els gràfics que de seguiment del projecte. No feu una captura global, sinó de cada gràfic per separat per tal que sigui molt més visible.
+
+9. No us oblideu d'afegir l'enllaç al Kanban creat al Planner. Assegureu-vos que el Kanban és Públic per tal que el professorat pugui accedir-hi.
 
 ### Què cal lliurar, on i com?
 
