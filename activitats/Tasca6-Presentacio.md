@@ -64,7 +64,7 @@ Aquesta guia ha de ser clara i basada en captures de pantalla i instruccions pas
 
 ### Fase 2: Elaboració de la presentació
 
-Elaborar una presentació de 15 minuts per al client, que ha de ser clara, entenedora i convincent. La presentació s'ha de centrar en primer lloca, a la necessitat d'utilitzar un gestor de contrasenyes i el doble factor d'autenticació com a mecanismes de protecció dels comptes i la informació de l'empresa. En segon lloc, ha de mostrar d'una forma visual el process d'ús del gestor de contrasenyes i del doble factor d'autenticació, amb captures de pantalla i instruccions pas a pas, presentant les eines que recomaneu al client i algunes captures de pantalla per explicar de forma breu el procés d'ús.
+Elaborar una presentació de 15 minuts per al client, que ha de ser clara, entenedora i convincent. La presentació s'ha de centrar en primer lloc, a la necessitat d'utilitzar un gestor de contrasenyes i el doble factor d'autenticació com a mecanismes de protecció dels comptes i la informació de l'empresa. En segon lloc, ha de mostrar d'una forma visual el process d'ús del gestor de contrasenyes i del doble factor d'autenticació, amb captures de pantalla i instruccions pas a pas, presentant les eines que recomaneu al client i algunes captures de pantalla per explicar de forma breu el procés d'ús.
 
 La presentació ha de ser visualment atractiva i ha de contenir informació clara i entendora.
 
